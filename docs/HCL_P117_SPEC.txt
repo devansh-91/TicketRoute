@@ -1,0 +1,160 @@
+HCL Internship — Project Brief
+================================
+Project ID:   P_117
+Catalogue:    AI-Powered Customer Support Ticket Classifier
+Working name: TicketRoute (multilingual support ticket classifier + router)
+Owner:        CSE AIML intern build
+Date:         10 Sep 2026
+Scope:        6–8 week internship demo, not a production helpdesk.
+
+WHY THIS PROJECT
+----------------
+HCL P_117 asks for: classify support tickets, set priority, suggest a reply.
+We build the India-real version of that: English + Hindi + Hinglish tickets,
+department routing, urgency, a draft reply, and an agent/officer override.
+This is the same problem as civic complaint routing, just in a support-desk
+shape that matches the HCL catalogue.
+
+PROBLEM
+-------
+Support queues mix languages and code-mix. Manual triaging is slow and
+inconsistent. Wrong department = SLA miss. We take a ticket in, return:
+  1) department / category
+  2) urgency (P1–P4)
+  3) language tag
+  4) suggested first reply
+  5) confidence + “abstain / send to human” when unsure
+
+WHAT WE WILL BUILD (FEATURES)
+-----------------------------
+Must-have (demo day)
+- Ticket inbox: paste or upload CSV (id, text, channel, timestamp)
+- Language ID: en / hi / hinglish / other
+- Category classifier (departments below)
+- Urgency classifier (P1 critical, P2 high, P3 normal, P4 low)
+- Suggested reply in the ticket’s language (template + LLM polish)
+- Confidence score; below threshold → “needs human”
+- Streamlit UI: list, filters, ticket detail, override + comment
+- Audit log: model prediction vs human override
+- Language-sliced metrics on a held-out set (do not report one fake 97%)
+
+Should-have if time
+- Duplicate / similar-ticket search (embeddings + FAISS)
+- SLA clock from urgency (P1 1h, P2 4h, P3 1d, P4 3d)
+- Simple analytics: volume by dept, language mix, override rate
+- Export of labelled + predicted CSV
+- REST API (FastAPI) behind the UI so it is not Streamlit-only
+
+Won’t do (out of scope)
+- Full ticketing product (auth SSO, billing, live WhatsApp/email ingest)
+- Fine-tuning a 70B model
+- Fake production accuracy claims
+- Clinical / legal advice bots
+
+DEPARTMENT TAXONOMY (v1)
+------------------------
+1. Billing & Payments
+2. Account / KYC / Login
+3. Technical / App crash
+4. Product / Order / Delivery
+5. Abuse / Safety / Fraud
+6. Feedback / General
+7. Other / Unknown  (abstain bucket)
+
+URGENCY RULES (v1, overridable)
+-------------------------------
+P1  fraud, account takeover, safety, complete outage, payment captured but
+    service dead
+P2  cannot login, failed payment, data missing, repeated failures
+P3  how-to, delay, feature request with workaround
+P4  thanks, FYI, suggestion
+
+TECH STACK
+----------
+Language:     Python 3.11+
+UI:           Streamlit (HCL listed this)
+API:          FastAPI + Uvicorn (optional week 6)
+NLP models:   HuggingFace Transformers
+              - language / code-mix: indic-bert or MuRIL (ai4bharat/indic-bert
+                or google/muril-base-cased)
+              - classifier: fine-tune MuRIL or DistilBERT on our labelled set;
+                zero-shot NLI as fallback if labels are thin
+Embeddings:   sentence-transformers (intfloat/multilingual-e5-small)
+Vector store: FAISS (similar tickets)
+LLM reply:    small local model via Ollama (llama3.2 / qwen2.5) OR Grok/OpenAI
+              if a key is available. Never block demo on a paid API.
+Data:         Pandas, scikit-learn
+Explain:      SHAP or simple token/attention highlight on top features
+Tracking:     MLflow local (optional)
+Config:       .env + YAML taxonomy
+Repo layout:  src/, data/, notebooks/, app/, api/, tests/, reports/
+
+SYSTEM SHAPE
+------------
+Ticket text
+    → preprocess (normalize, script mix keep)
+    → language tag
+    → encoder (MuRIL)
+    → heads: category, urgency
+    → confidence / abstain
+    → retrieval of 3 similar past tickets (optional)
+    → reply drafter (template filled with dept + SLA + LLM rewrite)
+    → Streamlit: human can accept / edit / override
+    → log to SQLite
+
+DATA
+----
+We will not scrape private inboxes.
+Sources (public / synthetic, labelled by us):
+- Bitext / HuggingFace customer-support datasets (English)
+- Indic / Hindi complaint or review sets where licence allows
+- 800–1500 synthetic tickets we write: 5 depts × 3 languages × urgencies,
+  including Hinglish (“mera order nahi aaya, payment kat gaya”)
+Split: 70/15/15 train/val/test, stratified by language AND department.
+Hold out Hinglish as a slice even if n is small — report it honestly.
+
+EVALUATION (what we actually quote)
+-----------------------------------
+Overall + per-language + per-department:
+- category: macro-F1, accuracy
+- urgency: macro-F1 (cost of missing P1 is higher — also report P1 recall)
+- abstain: coverage vs accuracy on auto-routed subset
+- reply: human 1–5 usefulness on 50 tickets (not BLEU)
+Baseline to beat: keyword rules, then mBERT, then MuRIL.
+Do not quote catalogue “97%” numbers. Those are other papers.
+
+DELIVERABLES FOR HCL
+--------------------
+1. Git repo with README, setup, sample data
+2. Streamlit demo (record 3–4 min walkthrough)
+3. Short report (problem, data, model, metrics table, limitations)
+4. Trained weights or a download script + eval notebook
+5. This spec, updated if the mentor changes taxonomy
+
+WEEK PLAN (8 weeks, compress to 6 if needed)
+--------------------------------------------
+W1  taxonomy freeze, synthetic + public data, labelling sheet
+W2  baselines (rules + mBERT), Streamlit skeleton (upload + list)
+W3  MuRIL classifiers, language ID, confidence/abstain
+W4  reply templates + LLM polish, override + audit log
+W5  similar-ticket search, dashboard, language-sliced eval
+W6  FastAPI, hardening, demo script, report
+W7–8 buffer: mentor feedback, extra language, or drop to 6-week cut
+
+HARDWARE
+--------
+HCL note: 8GB RAM laptop. Use base/small models only.
+No GPU required for inference; Colab/Kaggle for fine-tune if needed.
+
+SUCCESS BAR
+-----------
+A mentor can paste a Hinglish billing complaint and see:
+department = Billing, urgency = P2, a Hindi/Hinglish draft reply,
+confidence shown, and a one-click override. Metrics table exists for
+en / hi / hinglish separately. Repo clones and runs.
+
+RISKS
+-----
+- Tiny Hinglish labelled set → report slice size, don’t hide it
+- LLM reply hallucination → templates first, LLM only rewrites tone
+- Scope creep into a full helpdesk → freeze features to the list above
