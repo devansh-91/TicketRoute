@@ -59,7 +59,7 @@ python3 -m uvicorn api:app --host 0.0.0.0 --port 8000
 
 ## LLM backends
 
-**Groq** (recommended): set `GROQ_API_KEY` in `.env`. Default model `llama-3.1-8b-instant`.
+**Groq** (recommended): set `GROQ_API_KEY` in `.env`. Default model `openai/gpt-oss-20b` (this account’s Groq catalogue; override with `GROQ_MODEL`).
 
 **Ollama** fallback: any local chat model. Default `llama3.2:3b` at `http://127.0.0.1:11434`.
 
