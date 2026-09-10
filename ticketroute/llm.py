@@ -120,6 +120,17 @@ def complete_json(system: str, user: str) -> tuple[dict[str, Any] | None, str, s
     return obj, active, None
 
 
+def sla_mentioned(reply: str, sla: int) -> bool:
+    """True only if the numeric SLA is tied to hours, not 'P1' or '24' containing '4'."""
+    return bool(
+        re.search(
+            rf"(?<!\d){int(sla)}\s*(h\b|hours?\b|hour\(s\)|hrs?\b|घंटे|ghante)",
+            reply or "",
+            flags=re.I,
+        )
+    )
+
+
 def llm_polish(
     ticket: str,
     language: str,
@@ -140,9 +151,12 @@ def llm_polish(
     if not reply:
         out["error"] = err or "empty reply"
         return out
-    # refuse if the model dropped the SLA number
-    if str(sla) not in reply and f"{sla} " not in reply:
-        reply = template_reply
+    if not sla_mentioned(reply, sla):
+        out["error"] = f"SLA {sla}h missing in LLM reply; using template"
+        out["suggested_reply"] = template_reply
+        out["rationale"] = str(obj.get("rationale") or "").strip()
+        out["used"] = False
+        return out
     out.update(
         {
             "used": True,

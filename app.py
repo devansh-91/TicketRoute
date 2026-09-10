@@ -107,10 +107,13 @@ with tab1:
             )
         st.session_state["last"] = pred
         st.session_state["last_text"] = text.strip()
-    if st.session_state.get("last"):
-        if st.session_state.get("last_text") and st.session_state["last_text"] != text.strip():
-            st.info("Text changed — click Classify again for a new prediction.")
-        show_result(st.session_state["last"], f"single-{st.session_state['last'].get('ticket_id', 'x')}")
+    last = st.session_state.get("last")
+    last_text = st.session_state.get("last_text")
+    if last and last_text == text.strip():
+        key = f"single-{last.get('ticket_id')}-{abs(hash(last_text))}"
+        show_result(last, key)
+    elif last and last_text != text.strip():
+        st.info("Text changed — click Classify again for a new prediction.")
 
 with tab2:
     f1, f2, f3, f4 = st.columns(4)
@@ -177,7 +180,9 @@ with tab3:
                         persist=persist,
                     )
                 )
-            out = pd.DataFrame(rows_out)
+            st.session_state["batch"] = pd.DataFrame(rows_out)
+        if st.session_state.get("batch") is not None:
+            out = st.session_state["batch"]
             show_cols = [
                 c
                 for c in [

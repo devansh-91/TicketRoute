@@ -171,7 +171,15 @@ def save_override(
         """,
         (ticket_id, now, pred_dept, pred_urg, override_dept, override_urg, note),
     )
-    hours, due = _due(datetime.now(timezone.utc), override_urg)
+    hours = int(SLA_HOURS.get(override_urg, 24))
+    row = con.execute("SELECT created_at FROM tickets WHERE id=?", (ticket_id,)).fetchone()
+    created = datetime.now(timezone.utc)
+    if row and row["created_at"]:
+        try:
+            created = datetime.fromisoformat(row["created_at"])
+        except ValueError:
+            pass
+    hours, due = _due(created, override_urg)
     con.execute(
         """
         UPDATE tickets SET department=?, urgency=?, sla_hours=?, due_at=?, status='overridden'
