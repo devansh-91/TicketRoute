@@ -8,5 +8,7 @@ __pycache__/
 .pytest_cache/
 .streamlit/
 data/overrides.csv
+data/ticketroute.db
+*.db
 *.log
 .DS_Store

@@ -1,55 +1,284 @@
 {
-  "n_train": 960,
-  "n_test": 240,
+  "n_train": 840,
+  "n_val": 180,
+  "n_test": 180,
+  "split": "70/15/15 stratified by department",
+  "disclaimer": "Scores on synthetic templates are high (template memorisation). Quote keyword_baseline vs sklearn, language slices, and P1 recall. Do not present test accuracy as production F1.",
+  "val": {
+    "n": 180,
+    "department": {
+      "Billing & Payments": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 44.0
+      },
+      "Account / KYC / Login": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 36.0
+      },
+      "Technical / App crash": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 30.0
+      },
+      "Product / Order / Delivery": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 28.0
+      },
+      "Abuse / Safety / Fraud": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 22.0
+      },
+      "Feedback / General": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 20.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      }
+    },
+    "urgency": {
+      "P1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 45.0
+      },
+      "P2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 58.0
+      },
+      "P3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 39.0
+      },
+      "P4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 38.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      }
+    },
+    "p1_recall": 1.0,
+    "keyword_baseline_dept_acc": 0.7444444444444445,
+    "by_language": {
+      "en": {
+        "n": 88,
+        "department_acc": 1.0,
+        "urgency_acc": 1.0
+      },
+      "hi": {
+        "n": 42,
+        "department_acc": 1.0,
+        "urgency_acc": 1.0
+      },
+      "hinglish": {
+        "n": 50,
+        "department_acc": 1.0,
+        "urgency_acc": 1.0
+      }
+    },
+    "note": "val"
+  },
+  "test": {
+    "n": 180,
+    "department": {
+      "Billing & Payments": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 44.0
+      },
+      "Account / KYC / Login": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 35.0
+      },
+      "Technical / App crash": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 31.0
+      },
+      "Product / Order / Delivery": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 27.0
+      },
+      "Abuse / Safety / Fraud": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 22.0
+      },
+      "Feedback / General": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 21.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      }
+    },
+    "urgency": {
+      "P1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 58.0
+      },
+      "P2": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 42.0
+      },
+      "P3": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 47.0
+      },
+      "P4": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 33.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+      }
+    },
+    "p1_recall": 1.0,
+    "keyword_baseline_dept_acc": 0.7555555555555555,
+    "by_language": {
+      "en": {
+        "n": 89,
+        "department_acc": 1.0,
+        "urgency_acc": 1.0
+      },
+      "hi": {
+        "n": 49,
+        "department_acc": 1.0,
+        "urgency_acc": 1.0
+      },
+      "hinglish": {
+        "n": 42,
+        "department_acc": 1.0,
+        "urgency_acc": 1.0
+      }
+    },
+    "note": "test"
+  },
   "department": {
     "Billing & Payments": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 59.0
+      "support": 44.0
     },
     "Account / KYC / Login": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 47.0
+      "support": 35.0
     },
     "Technical / App crash": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 41.0
+      "support": 31.0
     },
     "Product / Order / Delivery": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 36.0
+      "support": 27.0
     },
     "Abuse / Safety / Fraud": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 30.0
+      "support": 22.0
     },
     "Feedback / General": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 27.0
+      "support": 21.0
     },
     "accuracy": 1.0,
     "macro avg": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 240.0
+      "support": 180.0
     },
     "weighted avg": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 240.0
+      "support": 180.0
     }
   },
   "urgency": {
@@ -57,53 +286,53 @@
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 69.0
+      "support": 58.0
     },
     "P2": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 70.0
+      "support": 42.0
     },
     "P3": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 60.0
+      "support": 47.0
     },
     "P4": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 41.0
+      "support": 33.0
     },
     "accuracy": 1.0,
     "macro avg": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 240.0
+      "support": 180.0
     },
     "weighted avg": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 240.0
+      "support": 180.0
     }
   },
   "by_language": {
     "en": {
-      "n": 114,
+      "n": 89,
       "department_acc": 1.0,
       "urgency_acc": 1.0
     },
     "hi": {
-      "n": 62,
+      "n": 49,
       "department_acc": 1.0,
       "urgency_acc": 1.0
     },
     "hinglish": {
-      "n": 64,
+      "n": 42,
       "department_acc": 1.0,
       "urgency_acc": 1.0
     }

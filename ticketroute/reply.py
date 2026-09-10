@@ -8,6 +8,7 @@ TEMPLATES = {
         "Product / Order / Delivery": "We are checking your order status with logistics. You will get a tracking update within {sla} hour(s).",
         "Abuse / Safety / Fraud": "We treat safety reports as critical. Do not make off-app payments. A specialist will contact you within {sla} hour(s).",
         "Feedback / General": "Thank you for the feedback. We logged it for the product team. No action needed from you.",
+        "Other / Unknown": "We could not auto-route this with high confidence. An agent will read it within {sla} hour(s).",
     },
     "hi": {
         "Billing & Payments": "आपकी बिलिंग शिकायत दर्ज हो गई है। पेमेंट टीम {sla} घंटे में अपडेट देगी। ट्रांजैक्शन आईडी संभाल कर रखें।",
@@ -16,6 +17,7 @@ TEMPLATES = {
         "Product / Order / Delivery": "आपका ऑर्डर लॉजिस्टिक्स से जाँचा जा रहा है। {sla} घंटे में ट्रैकिंग अपडेट मिलेगा।",
         "Abuse / Safety / Fraud": "सुरक्षा रिपोर्ट को प्राथमिकता दी गई है। ऐप के बाहर भुगतान न करें। {sla} घंटे में विशेषज्ञ संपर्क करेगा।",
         "Feedback / General": "आपके सुझाव के लिए धन्यवाद। उत्पाद टीम को भेज दिया गया है।",
+        "Other / Unknown": "यह टिकट अपने आप रूट नहीं हो सका। एजेंट {sla} घंटे में पढ़ेगा।",
     },
     "hinglish": {
         "Billing & Payments": "Aapka billing issue register ho gaya hai. Payments team {sla} hour me update degi. Transaction id save rakhna.",
@@ -24,6 +26,7 @@ TEMPLATES = {
         "Product / Order / Delivery": "Order status logistics se check ho raha hai. {sla} hour me tracking update milega.",
         "Abuse / Safety / Fraud": "Yeh safety report critical hai. Off-app payment mat karo. Specialist {sla} hour me contact karega.",
         "Feedback / General": "Feedback ke liye shukriya. Product team ko bhej diya hai.",
+        "Other / Unknown": "Yeh ticket auto-route nahi hua. Agent {sla} hour me padhega.",
     },
 }
 

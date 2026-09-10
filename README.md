@@ -19,13 +19,14 @@ Internship demo, not a production helpdesk.
 
 ## Features
 
-- Streamlit UI: single ticket, CSV batch, override log
-- FastAPI: `GET /health`, `POST /predict`
-- Local sklearn classifiers (TF-IDF + logistic regression) — always on, offline
-- Groq LLM (preferred) for ticket-specific replies and optional reroute
+- Streamlit UI: classify, inbox + filters, SLA remaining, CSV batch, analytics, metrics
+- FastAPI: `/health`, `/predict`, `/tickets`, `/override`, `/analytics`
+- Local sklearn classifiers — always on, offline
+- Groq LLM polishes the **template** reply and must keep SLA hours (does not own routing)
 - Ollama fallback if no Groq key
 - Similar-ticket search (TF-IDF cosine)
-- Officer override saved to `data/overrides.csv` (gitignored)
+- SQLite inbox + override audit (`data/ticketroute.db`, gitignored)
+- Abstain class `Other / Unknown`; language `other` for non en/hi/hinglish
 
 ## Departments and SLA
 
@@ -37,6 +38,7 @@ Internship demo, not a production helpdesk.
 | Product / Order / Delivery | not delivered, tracking lie |
 | Abuse / Safety / Fraud | phishing, OTP scam, takeover |
 | Feedback / General | thanks, vague “need help” |
+| Other / Unknown | abstain — low confidence, send to human |
 
 | Urgency | Meaning | SLA |
 |---|---|---|
@@ -49,15 +51,17 @@ Internship demo, not a production helpdesk.
 
 ```
 ticket text
-    → language tag (script + Hinglish lexicon)
+    → language tag (en / hi / hinglish / other)
     → sklearn: department + urgency + confidence
+    → abstain to Other / Unknown if confidence < 0.45
     → similar tickets (TF-IDF)
-    → Groq (or Ollama): JSON triage + reply in ticket language
-    → Streamlit / FastAPI
-    → human override log
+    → template reply with locked SLA hours
+    → Groq/Ollama polish tone only
+    → SQLite inbox + Streamlit / FastAPI
+    → officer override
 ```
 
-Sklearn always runs. LLM can override labels and writes the reply. If the LLM times out, templates still reply.
+Sklearn always runs. LLM does **not** change department/urgency by default. If the LLM times out or drops the SLA number, the template reply is kept.
 
 ## Project structure
 
@@ -78,9 +82,14 @@ TicketRoute/
 │   ├── llm.py             # Groq then Ollama
 │   ├── reply.py           # templates if no LLM
 │   ├── similar.py         # nearest labelled tickets
+│   ├── store.py           # SQLite inbox + overrides
+│   ├── explain.py         # token highlights
 │   └── config.py          # loads .env
+├── config/taxonomy.yaml
 ├── data/
-│   └── tickets.csv        # labelled synthetic set
+│   └── tickets.csv
+├── notebooks/eval.py
+├── Dockerfile / docker-compose.yml
 ├── models/                # department.joblib, urgency.joblib
 ├── tests/                 # pytest (no API key required)
 ├── docs/

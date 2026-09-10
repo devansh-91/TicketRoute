@@ -132,6 +132,7 @@ def generate(n: int = 1200, seed: int = 42) -> list[dict]:
                 "urgency": urg,
                 "language": lang,
                 "channel": rng.choice(["app", "email", "web", "whatsapp"]),
+                "timestamp": f"2026-09-{(i % 28) + 1:02d}T10:00:00+05:30",
             }
         )
     return rows
@@ -144,7 +145,7 @@ def write_csv(path: Path | None = None, n: int = 1200) -> Path:
     with path.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(
             f,
-            fieldnames=["id", "text", "department", "urgency", "language", "channel"],
+            fieldnames=["id", "text", "department", "urgency", "language", "channel", "timestamp"],
         )
         w.writeheader()
         w.writerows(rows)

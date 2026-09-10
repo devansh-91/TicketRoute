@@ -1,0 +1,30 @@
+departments:
+  - Billing & Payments
+  - Account / KYC / Login
+  - Technical / App crash
+  - Product / Order / Delivery
+  - Abuse / Safety / Fraud
+  - Feedback / General
+  - Other / Unknown
+
+abstain_department: Other / Unknown
+abstain_threshold: 0.45
+
+urgency:
+  P1: {label: Critical, sla_hours: 1}
+  P2: {label: High, sla_hours: 4}
+  P3: {label: Normal, sla_hours: 24}
+  P4: {label: Low, sla_hours: 72}
+
+languages:
+  - en
+  - hi
+  - hinglish
+  - other
+
+channels:
+  - app
+  - email
+  - web
+  - whatsapp
+  - phone
