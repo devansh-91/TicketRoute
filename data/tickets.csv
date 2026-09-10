@@ -1,0 +1,1201 @@
+id,text,department,urgency,language,channel
+T0001,Order 24592 arrived in good condition. Thank you. Raised via app chat.,Product / Order / Delivery,P4,en,email
+T0002,A user threatened me in chat and shared my address. Unsafe. ??,Abuse / Safety / Fraud,P1,en,email
+T0003,"Last bill me extra ₹499 kyun add kiya, samjhao.",Billing & Payments,P3,hinglish,whatsapp
+T0004,"Last bill me extra ₹2,050 kyun add kiya, samjhao. kripya jaldi reply do.",Billing & Payments,P3,hinglish,email
+T0005,"Mera order nahi aaya, tracking 4 din se same hai. customer id C65392.",Product / Order / Delivery,P2,hinglish,web
+T0006,"Thanks, the refund for invoice 22156 arrived. Just confirming. Need update today.",Billing & Payments,P4,en,web
+T0007,Order 44671 is 4 days late. Tracking has not moved.,Product / Order / Delivery,P2,en,whatsapp
+T0008,How do I download GST invoice for order 82357? waiting since morning.,Billing & Payments,P3,en,app
+T0009,"UPI payment failed yet ₹1,299 left my bank. Transaction id TXN96673. Raised via app chat.",Billing & Payments,P2,en,email
+T0010,Could you add Hindi language to the help centre articles? Raised via app chat.,Feedback / General,P3,en,web
+T0011,"पिछले बिल में अतिरिक्त शुल्क ₹2,050 क्यों लगाया गया? कृपया जल्दी जवाब दें।",Billing & Payments,P3,hi,app
+T0012,Order 93227 is 4 days late. Tracking has not moved. Customer id C93227.,Product / Order / Delivery,P2,en,whatsapp
+T0013,I did not request this password reset. Possible account takeover. waiting since morning.,Account / KYC / Login,P1,en,app
+T0014,"Last bill me extra ₹2,050 kyun add kiya, samjhao.",Billing & Payments,P3,hinglish,email
+T0015,हेल्प सेंटर में हिंदी लेख जोड़िए। कृपया जल्दी जवाब दें।,Feedback / General,P3,hi,whatsapp
+T0016,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up.,Feedback / General,P4,en,email
+T0017,A user threatened me in chat and shared my address. Unsafe.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0018,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है।",Account / KYC / Login,P2,hi,app
+T0019,Could you add Hindi language to the help centre articles? Ticket for order follow-up.,Feedback / General,P3,en,whatsapp
+T0020,Order 18326 is 4 days late. Tracking has not moved.,Product / Order / Delivery,P2,en,whatsapp
+T0021,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। यह बहुत जरूरी है।,Technical / App crash,P2,hi,web
+T0022,I want to report spam messages in the in-app inbox. Need update today.,Abuse / Safety / Fraud,P3,en,email
+T0023,Checkout page spins forever on Android 14. Order cannot be placed. Ticket for order follow-up.,Technical / App crash,P2,en,app
+T0024,Could you add Hindi language to the help centre articles? Customer id C91959.,Feedback / General,P3,en,email
+T0025,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,app
+T0026,FYI I updated my billing address. No issue otherwise. Customer id C57576. ok,Billing & Payments,P4,en,app
+T0027,How do I download GST invoice for order 73699? Ticket for order follow-up.,Billing & Payments,P3,en,whatsapp
+T0028,Help centre me Hindi articles add karo please. customer id C82063.,Feedback / General,P3,hinglish,whatsapp
+T0029,"UPI fail hua lekin paise nahi aaye wapas, TXN80686 check karo. customer id C80686.",Billing & Payments,P2,hinglish,web
+T0030,App crashes on launch since the last update. Completely unusable. Need update today.,Technical / App crash,P1,en,app
+T0031,"KYC approved, thanks for the quick help. Customer id C12757. ??",Account / KYC / Login,P4,en,email
+T0032,"Please explain the extra ₹2,050 convenience fee on last month's invoice. Need update today.",Billing & Payments,P3,en,web
+T0033,ऑर्डर 73624 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,whatsapp
+T0034,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. bahut zaruri hai bhai.",Billing & Payments,P4,hinglish,whatsapp
+T0035,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,app
+T0036,"Order 95649 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. kripya jaldi reply do.",Product / Order / Delivery,P1,hinglish,web
+T0037,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। कृपया जल्दी जवाब दें।,Abuse / Safety / Fraud,P2,hi,whatsapp
+T0038,"मेरे खाते से ₹1,299 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। ग्राहक आईडी C65296।",Billing & Payments,P1,hi,app
+T0039,App crashes on launch since the last update. Completely unusable. Please help.,Technical / App crash,P1,en,app
+T0040,How do I download GST invoice for order 40982?,Billing & Payments,P3,en,email
+T0041,Could you add Hindi language to the help centre articles? Ticket for order follow-up.,Feedback / General,P3,en,whatsapp
+T0042,Someone else logged into my account. Please freeze it now.,Account / KYC / Login,P1,en,whatsapp
+T0043,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN34890 चेक करें। कृपया जल्दी जवाब दें।,Billing & Payments,P2,hi,app
+T0044,A user threatened me in chat and shared my address. Unsafe. Please help.,Abuse / Safety / Fraud,P1,en,email
+T0045,I cannot pay my bill. Card is declined every time I try checkout. Ticket for order follow-up. ??,Billing & Payments,P2,en,email
+T0046,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,app
+T0047,"Login nahi ho raha, OTP nahi aa raha hai. customer id C96163.",Account / KYC / Login,P2,hinglish,web
+T0048,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. bahut zaruri hai bhai.",Billing & Payments,P4,hinglish,web
+T0049,Checkout page spins forever on Android 14. Order cannot be placed. Please help.,Technical / App crash,P2,en,app
+T0050,"Please explain the extra ₹1,299 convenience fee on last month's invoice. Raised via app chat.",Billing & Payments,P3,en,web
+T0051,Just saying thanks to the support agent who helped yesterday. waiting since morning.,Feedback / General,P4,en,whatsapp
+T0052,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,app
+T0053,ऑर्डर 82692 चार दिन से अटका हुआ है। यह बहुत जरूरी है।,Product / Order / Delivery,P2,hi,email
+T0054,Someone else logged into my account. Please freeze it now. Ticket for order follow-up.,Account / KYC / Login,P1,en,email
+T0055,Delivery slot Saturday kar sakte ho kya order 54942 ka? customer id C54942.,Product / Order / Delivery,P3,hinglish,web
+T0056,नया डैशबोर्ड अच्छा लगा। धन्यवाद।,Feedback / General,P4,hi,app
+T0057,Payment was deducted twice for invoice 53719 and my account still shows overdue. Raised via app chat.,Billing & Payments,P1,en,whatsapp
+T0058,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do. !!!,Technical / App crash,P2,hinglish,app
+T0059,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,web
+T0060,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। कृपया जल्दी जवाब दें।",Account / KYC / Login,P2,hi,app
+T0061,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,email
+T0062,Could you add Hindi language to the help centre articles? pls,Feedback / General,P3,en,whatsapp
+T0063,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। ग्राहक आईडी C97806।,Abuse / Safety / Fraud,P2,hi,app
+T0064,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? कृपया जल्दी जवाब दें।,Account / KYC / Login,P3,hi,whatsapp
+T0065,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। कृपया जल्दी जवाब दें। !!!,Account / KYC / Login,P1,hi,whatsapp
+T0066,"KYC approved, thanks for the quick help. Raised via app chat.",Account / KYC / Login,P4,en,whatsapp
+T0067,"Order 80282 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. kripya jaldi reply do.",Product / Order / Delivery,P1,hinglish,web
+T0068,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। यह बहुत जरूरी है।",Billing & Payments,P4,hi,whatsapp
+T0069,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,app
+T0070,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? ग्राहक आईडी C85574। urgent,Account / KYC / Login,P3,hi,app
+T0071,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C80575।,Technical / App crash,P2,hi,web
+T0072,Can I change the delivery slot for order 51145 to Saturday? Raised via app chat.,Product / Order / Delivery,P3,en,whatsapp
+T0073,How do I change the registered mobile number on my profile? Ticket for order follow-up.,Account / KYC / Login,P3,en,whatsapp
+T0074,"Order 32810 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,app
+T0075,PAN upload keeps failing and I am locked out of the dashboard.,Account / KYC / Login,P2,en,web
+T0076,Checkout page spins forever on Android 14. Order cannot be placed. Customer id C67905.,Technical / App crash,P2,en,email
+T0077,ऑर्डर 21114 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,web
+T0078,How do I download GST invoice for order 40784? Customer id C40784.,Billing & Payments,P3,en,email
+T0079,"Charged ₹1,299 but the service is completely down. Need an immediate refund.",Billing & Payments,P1,en,app
+T0080,Checkout page spins forever on Android 14. Order cannot be placed.,Technical / App crash,P2,en,email
+T0081,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN95990 चेक करें। यह बहुत जरूरी है।,Billing & Payments,P2,hi,email
+T0082,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। यह बहुत जरूरी है।",Billing & Payments,P4,hi,app
+T0083,Checkout page spins forever on Android 14. Order cannot be placed. waiting since morning.,Technical / App crash,P2,en,whatsapp
+T0084,Can I change the delivery slot for order 76162 to Saturday?,Product / Order / Delivery,P3,en,whatsapp
+T0085,App crashes on launch since the last update. Completely unusable. Raised via app chat.,Technical / App crash,P1,en,whatsapp
+T0086,Order 41358 arrived in good condition. Thank you. pls,Product / Order / Delivery,P4,en,email
+T0087,I did not request this password reset. Possible account takeover. Need update today.,Account / KYC / Login,P1,en,email
+T0088,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? यह बहुत जरूरी है।,Account / KYC / Login,P3,hi,web
+T0089,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. kripya jaldi reply do.",Technical / App crash,P1,hinglish,whatsapp
+T0090,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,app
+T0091,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,whatsapp
+T0092,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,whatsapp
+T0093,The new search is nicer. Small suggestion: remember last filter. waiting since morning.,Technical / App crash,P4,en,whatsapp
+T0094,Phishing SMS used your brand. They asked for OTP. Please investigate. Ticket for order follow-up.,Abuse / Safety / Fraud,P1,en,app
+T0095,हेल्प सेंटर में हिंदी लेख जोड़िए। यह बहुत जरूरी है।,Feedback / General,P3,hi,email
+T0096,Could you add Hindi language to the help centre articles? Please help.,Feedback / General,P3,en,web
+T0097,"UPI fail hua lekin paise nahi aaye wapas, TXN69598 check karo. customer id C69598.",Billing & Payments,P2,hinglish,whatsapp
+T0098,I did not request this password reset. Possible account takeover. Need update today.,Account / KYC / Login,P1,en,app
+T0099,Help centre me Hindi articles add karo please. kripya jaldi reply do.,Feedback / General,P3,hinglish,app
+T0100,Seller listing looks fake. They asked me to pay off-app. Customer id C14067.,Abuse / Safety / Fraud,P2,en,email
+T0101,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. kripya jaldi reply do.",Billing & Payments,P4,hinglish,email
+T0102,Checkout page spins forever on Android 14. Order cannot be placed. Ticket for order follow-up.,Technical / App crash,P2,en,app
+T0103,I want to report spam messages in the in-app inbox. Need update today.,Abuse / Safety / Fraud,P3,en,web
+T0104,"Settings page slow hai, 5 second lagata hai load hone me.",Technical / App crash,P3,hinglish,email
+T0105,"Please explain the extra ₹1,299 convenience fee on last month's invoice. Need update today.",Billing & Payments,P3,en,web
+T0106,Love the new dashboard. Keep it up. Please help.,Feedback / General,P4,en,whatsapp
+T0107,ऑर्डर 58571 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,app
+T0108,Love the new dashboard. Keep it up. Need update today.,Feedback / General,P4,en,web
+T0109,Order 70258 arrived in good condition. Thank you.,Product / Order / Delivery,P4,en,web
+T0110,Can I change the delivery slot for order 80539 to Saturday?,Product / Order / Delivery,P3,en,web
+T0111,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,email
+T0112,Seller listing looks fake. They asked me to pay off-app. waiting since morning. pls,Abuse / Safety / Fraud,P2,en,email
+T0113,The new search is nicer. Small suggestion: remember last filter. Raised via app chat.,Technical / App crash,P4,en,web
+T0114,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,whatsapp
+T0115,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,whatsapp
+T0116,App crashes on launch since the last update. Completely unusable. Raised via app chat.,Technical / App crash,P1,en,email
+T0117,PAN upload keeps failing and I am locked out of the dashboard.,Account / KYC / Login,P2,en,web
+T0118,Registered number kaise change karein profile me? customer id C82140.,Account / KYC / Login,P3,hinglish,web
+T0119,PAN upload keeps failing and I am locked out of the dashboard. Need update today.,Account / KYC / Login,P2,en,web
+T0120,FYI I updated my billing address. No issue otherwise. Customer id C80236.,Billing & Payments,P4,en,whatsapp
+T0121,I did not request this password reset. Possible account takeover. Need update today.,Account / KYC / Login,P1,en,web
+T0122,"Last bill me extra ₹1,299 kyun add kiya, samjhao. customer id C57301. ok",Billing & Payments,P3,hinglish,email
+T0123,I did not request this password reset. Possible account takeover. Raised via app chat.,Account / KYC / Login,P1,en,email
+T0124,Order 74340 arrived in good condition. Thank you. Please help.,Product / Order / Delivery,P4,en,whatsapp
+T0125,Dark mode contrast is too low on the settings screen. Ticket for order follow-up.,Technical / App crash,P3,en,web
+T0126,Help centre me Hindi articles add karo please. kripya jaldi reply do.,Feedback / General,P3,hinglish,app
+T0127,"Settings page slow hai, 5 second lagata hai load hone me. bahut zaruri hai bhai.",Technical / App crash,P3,hinglish,web
+T0128,How do I download GST invoice for order 42530?,Billing & Payments,P3,en,email
+T0129,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,web
+T0130,Could you add Hindi language to the help centre articles? Raised via app chat.,Feedback / General,P3,en,app
+T0131,Can I change the delivery slot for order 23006 to Saturday? Customer id C23006.,Product / Order / Delivery,P3,en,app
+T0132,"पिछले बिल में अतिरिक्त शुल्क ₹1,299 क्यों लगाया गया? ??",Billing & Payments,P3,hi,whatsapp
+T0133,App crashes on launch since the last update. Completely unusable. Raised via app chat. pls,Technical / App crash,P1,en,web
+T0134,"Mera order nahi aaya, tracking 4 din se same hai. bahut zaruri hai bhai.",Product / Order / Delivery,P2,hinglish,email
+T0135,Registered number kaise change karein profile me? bahut zaruri hai bhai.,Account / KYC / Login,P3,hinglish,email
+T0136,"Please explain the extra ₹1,299 convenience fee on last month's invoice. Raised via app chat.",Billing & Payments,P3,en,web
+T0137,App crashes on launch since the last update. Completely unusable. Raised via app chat.,Technical / App crash,P1,en,web
+T0138,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही।,Technical / App crash,P1,hi,app
+T0139,Just saying thanks to the support agent who helped yesterday. Raised via app chat. !!!,Feedback / General,P4,en,app
+T0140,Seller listing looks fake. They asked me to pay off-app. Please help.,Abuse / Safety / Fraud,P2,en,email
+T0141,Dark mode contrast is too low on the settings screen. Raised via app chat.,Technical / App crash,P3,en,whatsapp
+T0142,Order 74451 arrived in good condition. Thank you.,Product / Order / Delivery,P4,en,web
+T0143,How do I change the registered mobile number on my profile? Ticket for order follow-up.,Account / KYC / Login,P3,en,whatsapp
+T0144,Cannot login after KYC update. OTP never arrives. Please help.,Account / KYC / Login,P2,en,web
+T0145,Someone else logged into my account. Please freeze it now.,Account / KYC / Login,P1,en,app
+T0146,ऑर्डर 81118 चार दिन से अटका हुआ है। ok,Product / Order / Delivery,P2,hi,web
+T0147,Can I change the delivery slot for order 75338 to Saturday? Please help.,Product / Order / Delivery,P3,en,email
+T0148,"Naya dashboard bahut accha hai, shukriya.",Feedback / General,P4,hinglish,email
+T0149,Delivery slot Saturday kar sakte ho kya order 30758 ka? urgent,Product / Order / Delivery,P3,hinglish,app
+T0150,"Last bill me extra ₹89 kyun add kiya, samjhao. kripya jaldi reply do.",Billing & Payments,P3,hinglish,email
+T0151,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,whatsapp
+T0152,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon.",Billing & Payments,P4,hinglish,email
+T0153,Could you add Hindi language to the help centre articles?,Feedback / General,P3,en,web
+T0154,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. customer id C10336.",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0155,Could you add Hindi language to the help centre articles?,Feedback / General,P3,en,whatsapp
+T0156,Checkout page spins forever on Android 14. Order cannot be placed. Customer id C52176.,Technical / App crash,P2,en,email
+T0157,Love the new dashboard. Keep it up. waiting since morning.,Feedback / General,P4,en,whatsapp
+T0158,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,email
+T0159,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। यह बहुत जरूरी है।,Technical / App crash,P1,hi,whatsapp
+T0160,"Thanks, the refund for invoice 78937 arrived. Just confirming. Please help.",Billing & Payments,P4,en,whatsapp
+T0161,Could you add Hindi language to the help centre articles? Need update today.,Feedback / General,P3,en,web
+T0162,"KYC approved, thanks for the quick help. Need update today.",Account / KYC / Login,P4,en,whatsapp
+T0163,How do I change the registered mobile number on my profile? Please help.,Account / KYC / Login,P3,en,email
+T0164,Order 99705 arrived in good condition. Thank you. Customer id C99705.,Product / Order / Delivery,P4,en,whatsapp
+T0165,"Thanks, the refund for invoice 93066 arrived. Just confirming.",Billing & Payments,P4,en,web
+T0166,नया डैशबोर्ड अच्छा लगा। धन्यवाद। ग्राहक आईडी C13794।,Feedback / General,P4,hi,web
+T0167,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। कृपया जल्दी जवाब दें।,Account / KYC / Login,P1,hi,whatsapp
+T0168,"Settings page slow hai, 5 second lagata hai load hone me. bahut zaruri hai bhai.",Technical / App crash,P3,hinglish,whatsapp
+T0169,Can I change the delivery slot for order 99539 to Saturday?,Product / Order / Delivery,P3,en,email
+T0170,"Last bill me extra ₹2,050 kyun add kiya, samjhao.",Billing & Payments,P3,hinglish,app
+T0171,नया डैशबोर्ड अच्छा लगा। धन्यवाद।,Feedback / General,P4,hi,whatsapp
+T0172,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,whatsapp
+T0173,Love the new dashboard. Keep it up.,Feedback / General,P4,en,app
+T0174,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon.",Billing & Payments,P4,hinglish,web
+T0175,Charged ₹89 but the service is completely down. Need an immediate refund. Raised via app chat. ??,Billing & Payments,P1,en,whatsapp
+T0176,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,email
+T0177,Order 34920 arrived in good condition. Thank you. Ticket for order follow-up.,Product / Order / Delivery,P4,en,app
+T0178,PAN upload keeps failing and I am locked out of the dashboard. waiting since morning.,Account / KYC / Login,P2,en,app
+T0179,हेल्प सेंटर में हिंदी लेख जोड़िए।,Feedback / General,P3,hi,email
+T0180,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,web
+T0181,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,web
+T0182,A user threatened me in chat and shared my address. Unsafe.,Abuse / Safety / Fraud,P1,en,email
+T0183,Seller listing looks fake. They asked me to pay off-app. waiting since morning.,Abuse / Safety / Fraud,P2,en,whatsapp
+T0184,Payment was deducted twice for invoice 44663 and my account still shows overdue.,Billing & Payments,P1,en,web
+T0185,Paid order 59941 marked delivered but nothing arrived. This is urgent. Need update today.,Product / Order / Delivery,P1,en,whatsapp
+T0186,"Charged ₹2,050 but the service is completely down. Need an immediate refund. Customer id C91205.",Billing & Payments,P1,en,whatsapp
+T0187,हेल्प सेंटर में हिंदी लेख जोड़िए। यह बहुत जरूरी है।,Feedback / General,P3,hi,app
+T0188,PAN upload keeps failing and I am locked out of the dashboard. Need update today.,Account / KYC / Login,P2,en,email
+T0189,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,email
+T0190,Just saying thanks to the support agent who helped yesterday.,Feedback / General,P4,en,web
+T0191,"UPI payment failed yet ₹1,299 left my bank. Transaction id TXN58566.",Billing & Payments,P2,en,email
+T0192,Love the new dashboard. Keep it up. waiting since morning.,Feedback / General,P4,en,web
+T0193,I cannot pay my bill. Card is declined every time I try checkout. Customer id C62184.,Billing & Payments,P2,en,whatsapp
+T0194,How do I download GST invoice for order 96870? Please help. pls,Billing & Payments,P3,en,email
+T0195,"मेरे खाते से ₹1,299 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। यह बहुत जरूरी है।",Billing & Payments,P1,hi,email
+T0196,Paid order 38305 marked delivered but nothing arrived. This is urgent. waiting since morning.,Product / Order / Delivery,P1,en,app
+T0197,I did not request this password reset. Possible account takeover. Raised via app chat.,Account / KYC / Login,P1,en,app
+T0198,ऑर्डर 13379 चार दिन से अटका हुआ है। यह बहुत जरूरी है।,Product / Order / Delivery,P2,hi,email
+T0199,Paid order 52437 marked delivered but nothing arrived. This is urgent. Ticket for order follow-up.,Product / Order / Delivery,P1,en,email
+T0200,A user threatened me in chat and shared my address. Unsafe. Need update today.,Abuse / Safety / Fraud,P1,en,web
+T0201,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही।,Technical / App crash,P1,hi,app
+T0202,Phishing SMS used your brand. They asked for OTP. Please investigate.,Abuse / Safety / Fraud,P1,en,app
+T0203,I cannot pay my bill. Card is declined every time I try checkout.,Billing & Payments,P2,en,whatsapp
+T0204,Delivery slot Saturday kar sakte ho kya order 68138 ka? kripya jaldi reply do.,Product / Order / Delivery,P3,hinglish,email
+T0205,"Please explain the extra ₹2,050 convenience fee on last month's invoice. waiting since morning.",Billing & Payments,P3,en,web
+T0206,Checkout page spins forever on Android 14. Order cannot be placed. Need update today.,Technical / App crash,P2,en,app
+T0207,Love the new dashboard. Keep it up.,Feedback / General,P4,en,email
+T0208,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,app
+T0209,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,email
+T0210,"Order 72163 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. kripya jaldi reply do.",Product / Order / Delivery,P1,hinglish,app
+T0211,Registered number kaise change karein profile me? bahut zaruri hai bhai.,Account / KYC / Login,P3,hinglish,web
+T0212,ऑर्डर 26021 चार दिन से अटका हुआ है। ग्राहक आईडी C26021।,Product / Order / Delivery,P2,hi,whatsapp
+T0213,Could you add Hindi language to the help centre articles? Raised via app chat.,Feedback / General,P3,en,email
+T0214,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN96079 चेक करें। कृपया जल्दी जवाब दें।,Billing & Payments,P2,hi,web
+T0215,Love the new dashboard. Keep it up. Need update today.,Feedback / General,P4,en,email
+T0216,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है।,Abuse / Safety / Fraud,P2,hi,web
+T0217,"Charged ₹2,050 but the service is completely down. Need an immediate refund. Raised via app chat.",Billing & Payments,P1,en,web
+T0218,Payment was deducted twice for invoice 33777 and my account still shows overdue. ??,Billing & Payments,P1,en,app
+T0219,A user threatened me in chat and shared my address. Unsafe.,Abuse / Safety / Fraud,P1,en,web
+T0220,"पिछले बिल में अतिरिक्त शुल्क ₹2,050 क्यों लगाया गया? ग्राहक आईडी C58503।",Billing & Payments,P3,hi,app
+T0221,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up.,Feedback / General,P4,en,app
+T0222,"Order 20693 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,whatsapp
+T0223,Order 67939 is 4 days late. Tracking has not moved. Raised via app chat.,Product / Order / Delivery,P2,en,app
+T0224,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। ग्राहक आईडी C66349।,Account / KYC / Login,P1,hi,whatsapp
+T0225,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। यह बहुत जरूरी है।,Technical / App crash,P2,hi,app
+T0226,Payment was deducted twice for invoice 36794 and my account still shows overdue. Customer id C36794.,Billing & Payments,P1,en,web
+T0227,Cannot login after KYC update. OTP never arrives. Please help.,Account / KYC / Login,P2,en,whatsapp
+T0228,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है।",Billing & Payments,P4,hi,web
+T0229,Please explain the extra ₹499 convenience fee on last month's invoice. ??,Billing & Payments,P3,en,web
+T0230,"Settings page slow hai, 5 second lagata hai load hone me.",Technical / App crash,P3,hinglish,whatsapp
+T0231,"Charged ₹1,299 but the service is completely down. Need an immediate refund.",Billing & Payments,P1,en,web
+T0232,How do I download GST invoice for order 67240? Customer id C67240.,Billing & Payments,P3,en,whatsapp
+T0233,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C20308।,Technical / App crash,P2,hi,email
+T0234,"KYC approved, thanks for the quick help. Need update today.",Account / KYC / Login,P4,en,email
+T0235,नया डैशबोर्ड अच्छा लगा। धन्यवाद। कृपया जल्दी जवाब दें।,Feedback / General,P4,hi,email
+T0236,Someone else logged into my account. Please freeze it now. Ticket for order follow-up.,Account / KYC / Login,P1,en,app
+T0237,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है।",Billing & Payments,P4,hi,whatsapp
+T0238,"Order 83989 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. customer id C83989.",Product / Order / Delivery,P1,hinglish,app
+T0239,Dark mode contrast is too low on the settings screen. Raised via app chat.,Technical / App crash,P3,en,web
+T0240,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही।,Technical / App crash,P1,hi,app
+T0241,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,whatsapp
+T0242,Checkout page spins forever on Android 14. Order cannot be placed.,Technical / App crash,P2,en,email
+T0243,How do I change the registered mobile number on my profile? Ticket for order follow-up.,Account / KYC / Login,P3,en,whatsapp
+T0244,"Thanks, the refund for invoice 55015 arrived. Just confirming. Ticket for order follow-up. urgent",Billing & Payments,P4,en,whatsapp
+T0245,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C78517।,Technical / App crash,P2,hi,web
+T0246,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? pls,Account / KYC / Login,P3,hi,app
+T0247,"KYC approved, thanks for the quick help. Raised via app chat.",Account / KYC / Login,P4,en,email
+T0248,"KYC approved, thanks for the quick help. waiting since morning.",Account / KYC / Login,P4,en,whatsapp
+T0249,मेरे खाते से ₹499 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। ग्राहक आईडी C87993।,Billing & Payments,P1,hi,web
+T0250,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho.",Abuse / Safety / Fraud,P1,hinglish,app
+T0251,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। कृपया जल्दी जवाब दें।",Account / KYC / Login,P2,hi,whatsapp
+T0252,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. bahut zaruri hai bhai. ??",Billing & Payments,P1,hinglish,app
+T0253,ऑर्डर 54140 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,email
+T0254,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। pls",Billing & Payments,P4,hi,email
+T0255,App crashes on launch since the last update. Completely unusable.,Technical / App crash,P1,en,email
+T0256,PAN upload keeps failing and I am locked out of the dashboard. waiting since morning.,Account / KYC / Login,P2,en,whatsapp
+T0257,Checkout page spins forever on Android 14. Order cannot be placed.,Technical / App crash,P2,en,email
+T0258,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। ग्राहक आईडी C89254। urgent,Abuse / Safety / Fraud,P2,hi,web
+T0259,Checkout pe app hang ho jati hai Android pe. customer id C23446.,Technical / App crash,P2,hinglish,email
+T0260,I did not request this password reset. Possible account takeover.,Account / KYC / Login,P1,en,email
+T0261,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. kripya jaldi reply do.",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0262,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही।,Technical / App crash,P1,hi,web
+T0263,"Last bill me extra ₹2,050 kyun add kiya, samjhao. kripya jaldi reply do.",Billing & Payments,P3,hinglish,web
+T0264,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है। यह बहुत जरूरी है।",Abuse / Safety / Fraud,P1,hi,whatsapp
+T0265,"Mera order nahi aaya, tracking 4 din se same hai.",Product / Order / Delivery,P2,hinglish,app
+T0266,"Charged ₹1,299 but the service is completely down. Need an immediate refund. Ticket for order follow-up.",Billing & Payments,P1,en,whatsapp
+T0267,FYI I updated my billing address. No issue otherwise. Raised via app chat.,Billing & Payments,P4,en,email
+T0268,"Login nahi ho raha, OTP nahi aa raha hai. kripya jaldi reply do.",Account / KYC / Login,P2,hinglish,whatsapp
+T0269,Order 80261 is 4 days late. Tracking has not moved. Customer id C80261.,Product / Order / Delivery,P2,en,web
+T0270,Registered number kaise change karein profile me? bahut zaruri hai bhai.,Account / KYC / Login,P3,hinglish,email
+T0271,ऑर्डर 97584 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,app
+T0272,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है।,Technical / App crash,P2,hi,app
+T0273,Order 60709 arrived in good condition. Thank you. Raised via app chat.,Product / Order / Delivery,P4,en,web
+T0274,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है। कृपया जल्दी जवाब दें।",Abuse / Safety / Fraud,P1,hi,app
+T0275,I want to report spam messages in the in-app inbox. Ticket for order follow-up. ok,Abuse / Safety / Fraud,P3,en,web
+T0276,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho.",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0277,Order 33891 arrived in good condition. Thank you. Need update today.,Product / Order / Delivery,P4,en,whatsapp
+T0278,"UPI payment failed yet ₹1,299 left my bank. Transaction id TXN48462. Please help.",Billing & Payments,P2,en,app
+T0279,How do I change the registered mobile number on my profile?,Account / KYC / Login,P3,en,email
+T0280,Cannot login after KYC update. OTP never arrives. waiting since morning.,Account / KYC / Login,P2,en,web
+T0281,Registered number kaise change karein profile me?,Account / KYC / Login,P3,hinglish,email
+T0282,The new search is nicer. Small suggestion: remember last filter. Raised via app chat.,Technical / App crash,P4,en,whatsapp
+T0283,How do I download GST invoice for order 66440? Raised via app chat.,Billing & Payments,P3,en,app
+T0284,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,whatsapp
+T0285,"पिछले बिल में अतिरिक्त शुल्क ₹2,050 क्यों लगाया गया? pls",Billing & Payments,P3,hi,whatsapp
+T0286,I did not request this password reset. Possible account takeover. Need update today.,Account / KYC / Login,P1,en,whatsapp
+T0287,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,whatsapp
+T0288,UPI payment failed yet ₹499 left my bank. Transaction id TXN26545. Customer id C26545.,Billing & Payments,P2,en,web
+T0289,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है।",Account / KYC / Login,P2,hi,whatsapp
+T0290,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,email
+T0291,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C58096।,Technical / App crash,P2,hi,email
+T0292,FYI I updated my billing address. No issue otherwise.,Billing & Payments,P4,en,app
+T0293,Someone else logged into my account. Please freeze it now. Customer id C44116.,Account / KYC / Login,P1,en,web
+T0294,"Mera order nahi aaya, tracking 4 din se same hai. kripya jaldi reply do.",Product / Order / Delivery,P2,hinglish,app
+T0295,App crashes on launch since the last update. Completely unusable. Need update today.,Technical / App crash,P1,en,web
+T0296,ऑर्डर 55537 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,web
+T0297,Love the new dashboard. Keep it up. waiting since morning.,Feedback / General,P4,en,app
+T0298,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. ok",Billing & Payments,P1,hinglish,web
+T0299,Checkout page spins forever on Android 14. Order cannot be placed. Need update today. urgent,Technical / App crash,P2,en,whatsapp
+T0300,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। pls,Technical / App crash,P2,hi,app
+T0301,App crashes on launch since the last update. Completely unusable. Ticket for order follow-up.,Technical / App crash,P1,en,email
+T0302,I want to report spam messages in the in-app inbox. Please help.,Abuse / Safety / Fraud,P3,en,email
+T0303,PAN upload keeps failing and I am locked out of the dashboard. waiting since morning.,Account / KYC / Login,P2,en,email
+T0304,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। यह बहुत जरूरी है।,Account / KYC / Login,P1,hi,web
+T0305,"मेरे खाते से ₹2,050 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।",Billing & Payments,P1,hi,email
+T0306,Paid order 86106 marked delivered but nothing arrived. This is urgent. Ticket for order follow-up.,Product / Order / Delivery,P1,en,web
+T0307,"Seller off-app payment maang raha hai, scam lag raha hai. kripya jaldi reply do.",Abuse / Safety / Fraud,P2,hinglish,web
+T0308,ऑर्डर 37631 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं।,Product / Order / Delivery,P1,hi,whatsapp
+T0309,Just saying thanks to the support agent who helped yesterday. Raised via app chat.,Feedback / General,P4,en,whatsapp
+T0310,PAN upload keeps failing and I am locked out of the dashboard. Please help.,Account / KYC / Login,P2,en,whatsapp
+T0311,Dark mode contrast is too low on the settings screen. waiting since morning.,Technical / App crash,P3,en,web
+T0312,Could you add Hindi language to the help centre articles?,Feedback / General,P3,en,web
+T0313,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। ग्राहक आईडी C83616।,Technical / App crash,P1,hi,app
+T0314,I did not request this password reset. Possible account takeover. Ticket for order follow-up.,Account / KYC / Login,P1,en,web
+T0315,Help centre me Hindi articles add karo please. bahut zaruri hai bhai.,Feedback / General,P3,hinglish,email
+T0316,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. bahut zaruri hai bhai.",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0317,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। ग्राहक आईडी C71186।,Technical / App crash,P1,hi,app
+T0318,Help centre me Hindi articles add karo please. bahut zaruri hai bhai.,Feedback / General,P3,hinglish,web
+T0319,I cannot pay my bill. Card is declined every time I try checkout.,Billing & Payments,P2,en,whatsapp
+T0320,Cannot login after KYC update. OTP never arrives. Need update today.,Account / KYC / Login,P2,en,web
+T0321,Phishing SMS used your brand. They asked for OTP. Please investigate. waiting since morning. ??,Abuse / Safety / Fraud,P1,en,email
+T0322,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,whatsapp
+T0323,Seller listing looks fake. They asked me to pay off-app. Need update today.,Abuse / Safety / Fraud,P2,en,app
+T0324,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,email
+T0325,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. ??",Billing & Payments,P1,hinglish,email
+T0326,Delivery slot Saturday kar sakte ho kya order 53652 ka?,Product / Order / Delivery,P3,hinglish,email
+T0327,How do I change the registered mobile number on my profile? Ticket for order follow-up.,Account / KYC / Login,P3,en,web
+T0328,Paid order 54089 marked delivered but nothing arrived. This is urgent. Raised via app chat.,Product / Order / Delivery,P1,en,app
+T0329,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है।",Account / KYC / Login,P2,hi,app
+T0330,Order 72205 is 4 days late. Tracking has not moved. Customer id C72205.,Product / Order / Delivery,P2,en,whatsapp
+T0331,पिछले बिल में अतिरिक्त शुल्क ₹89 क्यों लगाया गया? कृपया जल्दी जवाब दें।,Billing & Payments,P3,hi,email
+T0332,UPI payment failed yet ₹499 left my bank. Transaction id TXN85047. Customer id C85047. pls,Billing & Payments,P2,en,whatsapp
+T0333,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN64127 चेक करें।,Billing & Payments,P2,hi,whatsapp
+T0334,Could you add Hindi language to the help centre articles? Customer id C18163.,Feedback / General,P3,en,whatsapp
+T0335,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। कृपया जल्दी जवाब दें।,Technical / App crash,P2,hi,web
+T0336,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,email
+T0337,I did not request this password reset. Possible account takeover. Customer id C83149.,Account / KYC / Login,P1,en,web
+T0338,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,web
+T0339,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,whatsapp
+T0340,नया डैशबोर्ड अच्छा लगा। धन्यवाद। कृपया जल्दी जवाब दें।,Feedback / General,P4,hi,web
+T0341,Delivery slot Saturday kar sakte ho kya order 20358 ka?,Product / Order / Delivery,P3,hinglish,whatsapp
+T0342,"UPI fail hua lekin paise nahi aaye wapas, TXN36485 check karo.",Billing & Payments,P2,hinglish,email
+T0343,"Thanks, the refund for invoice 90698 arrived. Just confirming. Customer id C90698. ok",Billing & Payments,P4,en,email
+T0344,Order 40518 arrived in good condition. Thank you. Need update today.,Product / Order / Delivery,P4,en,whatsapp
+T0345,"Thanks, the refund for invoice 99285 arrived. Just confirming. Please help.",Billing & Payments,P4,en,email
+T0346,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,web
+T0347,How do I change the registered mobile number on my profile? Need update today.,Account / KYC / Login,P3,en,email
+T0348,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,email
+T0349,"Naya dashboard bahut accha hai, shukriya.",Feedback / General,P4,hinglish,web
+T0350,Just saying thanks to the support agent who helped yesterday. Raised via app chat.,Feedback / General,P4,en,app
+T0351,"Naya dashboard bahut accha hai, shukriya.",Feedback / General,P4,hinglish,whatsapp
+T0352,Just saying thanks to the support agent who helped yesterday. Raised via app chat.,Feedback / General,P4,en,app
+T0353,"KYC approved, thanks for the quick help. Raised via app chat.",Account / KYC / Login,P4,en,app
+T0354,A user threatened me in chat and shared my address. Unsafe. Customer id C54185.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0355,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. kripya jaldi reply do.",Abuse / Safety / Fraud,P1,hinglish,app
+T0356,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। ग्राहक आईडी C28430।",Billing & Payments,P4,hi,app
+T0357,Someone else logged into my account. Please freeze it now.,Account / KYC / Login,P1,en,web
+T0358,PAN upload keeps failing and I am locked out of the dashboard. Raised via app chat.,Account / KYC / Login,P2,en,email
+T0359,I cannot pay my bill. Card is declined every time I try checkout.,Billing & Payments,P2,en,whatsapp
+T0360,"Order 75866 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. kripya jaldi reply do.",Product / Order / Delivery,P1,hinglish,web
+T0361,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। कृपया जल्दी जवाब दें।",Account / KYC / Login,P2,hi,whatsapp
+T0362,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN69634 चेक करें।,Billing & Payments,P2,hi,whatsapp
+T0363,Seller listing looks fake. They asked me to pay off-app. Customer id C80453.,Abuse / Safety / Fraud,P2,en,app
+T0364,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। यह बहुत जरूरी है।,Technical / App crash,P2,hi,app
+T0365,I cannot pay my bill. Card is declined every time I try checkout. Ticket for order follow-up.,Billing & Payments,P2,en,whatsapp
+T0366,FYI I updated my billing address. No issue otherwise.,Billing & Payments,P4,en,whatsapp
+T0367,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। कृपया जल्दी जवाब दें।,Abuse / Safety / Fraud,P2,hi,whatsapp
+T0368,"Settings page slow hai, 5 second lagata hai load hone me. customer id C17567.",Technical / App crash,P3,hinglish,whatsapp
+T0369,Someone else logged into my account. Please freeze it now. Need update today. pls,Account / KYC / Login,P1,en,app
+T0370,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. urgent",Technical / App crash,P1,hinglish,email
+T0371,I want to report spam messages in the in-app inbox. waiting since morning.,Abuse / Safety / Fraud,P3,en,whatsapp
+T0372,App crashes on launch since the last update. Completely unusable. Need update today.,Technical / App crash,P1,en,email
+T0373,ऑर्डर 55582 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। कृपया जल्दी जवाब दें।,Product / Order / Delivery,P1,hi,whatsapp
+T0374,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। यह बहुत जरूरी है।,Technical / App crash,P2,hi,web
+T0375,Checkout page spins forever on Android 14. Order cannot be placed.,Technical / App crash,P2,en,email
+T0376,Checkout page spins forever on Android 14. Order cannot be placed. Raised via app chat.,Technical / App crash,P2,en,app
+T0377,UPI payment failed yet ₹89 left my bank. Transaction id TXN96533. Please help.,Billing & Payments,P2,en,app
+T0378,"Thanks, the refund for invoice 87849 arrived. Just confirming.",Billing & Payments,P4,en,app
+T0379,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon.",Billing & Payments,P4,hinglish,email
+T0380,Seller listing looks fake. They asked me to pay off-app. Raised via app chat.,Abuse / Safety / Fraud,P2,en,web
+T0381,"Settings page slow hai, 5 second lagata hai load hone me. bahut zaruri hai bhai.",Technical / App crash,P3,hinglish,email
+T0382,ऑर्डर 78321 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,app
+T0383,Checkout pe app hang ho jati hai Android pe.,Technical / App crash,P2,hinglish,app
+T0384,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,whatsapp
+T0385,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,whatsapp
+T0386,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. bahut zaruri hai bhai.",Billing & Payments,P4,hinglish,app
+T0387,Checkout pe app hang ho jati hai Android pe.,Technical / App crash,P2,hinglish,whatsapp
+T0388,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. customer id C43422.",Billing & Payments,P4,hinglish,whatsapp
+T0389,Love the new dashboard. Keep it up. Customer id C58637. urgent,Feedback / General,P4,en,app
+T0390,Could you add Hindi language to the help centre articles? Customer id C19539.,Feedback / General,P3,en,web
+T0391,PAN upload keeps failing and I am locked out of the dashboard. Customer id C12009.,Account / KYC / Login,P2,en,app
+T0392,A user threatened me in chat and shared my address. Unsafe. Customer id C72773.,Abuse / Safety / Fraud,P1,en,email
+T0393,Checkout pe app hang ho jati hai Android pe.,Technical / App crash,P2,hinglish,web
+T0394,PAN upload keeps failing and I am locked out of the dashboard.,Account / KYC / Login,P2,en,whatsapp
+T0395,Seller listing looks fake. They asked me to pay off-app. waiting since morning.,Abuse / Safety / Fraud,P2,en,app
+T0396,"Settings page slow hai, 5 second lagata hai load hone me. kripya jaldi reply do.",Technical / App crash,P3,hinglish,whatsapp
+T0397,Cannot login after KYC update. OTP never arrives. waiting since morning.,Account / KYC / Login,P2,en,email
+T0398,The new search is nicer. Small suggestion: remember last filter. Raised via app chat.,Technical / App crash,P4,en,whatsapp
+T0399,Phishing SMS used your brand. They asked for OTP. Please investigate.,Abuse / Safety / Fraud,P1,en,web
+T0400,पिछले बिल में अतिरिक्त शुल्क ₹89 क्यों लगाया गया? कृपया जल्दी जवाब दें।,Billing & Payments,P3,hi,app
+T0401,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। यह बहुत जरूरी है।,Technical / App crash,P2,hi,whatsapp
+T0402,"मेरे खाते से ₹1,299 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। यह बहुत जरूरी है।",Billing & Payments,P1,hi,app
+T0403,"UPI fail hua lekin paise nahi aaye wapas, TXN76287 check karo. customer id C76287. ok",Billing & Payments,P2,hinglish,whatsapp
+T0404,ऑर्डर 73944 चार दिन से अटका हुआ है। यह बहुत जरूरी है।,Product / Order / Delivery,P2,hi,whatsapp
+T0405,Payment was deducted twice for invoice 12192 and my account still shows overdue. Raised via app chat. urgent,Billing & Payments,P1,en,email
+T0406,"Thanks, the refund for invoice 22624 arrived. Just confirming. Customer id C22624.",Billing & Payments,P4,en,web
+T0407,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. urgent",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0408,"Settings page slow hai, 5 second lagata hai load hone me. customer id C41877.",Technical / App crash,P3,hinglish,app
+T0409,ऑर्डर 95182 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। यह बहुत जरूरी है।,Product / Order / Delivery,P1,hi,whatsapp
+T0410,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,app
+T0411,The new search is nicer. Small suggestion: remember last filter. Need update today.,Technical / App crash,P4,en,app
+T0412,"Last bill me extra ₹89 kyun add kiya, samjhao. customer id C37710. ??",Billing & Payments,P3,hinglish,web
+T0413,नया डैशबोर्ड अच्छा लगा। धन्यवाद। कृपया जल्दी जवाब दें।,Feedback / General,P4,hi,web
+T0414,"Charged ₹1,299 but the service is completely down. Need an immediate refund.",Billing & Payments,P1,en,web
+T0415,"पिछले बिल में अतिरिक्त शुल्क ₹1,299 क्यों लगाया गया?",Billing & Payments,P3,hi,whatsapp
+T0416,"Order 80852 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,email
+T0417,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है। यह बहुत जरूरी है।",Abuse / Safety / Fraud,P1,hi,email
+T0418,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,whatsapp
+T0419,I want to report spam messages in the in-app inbox. Raised via app chat.,Abuse / Safety / Fraud,P3,en,whatsapp
+T0420,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,whatsapp
+T0421,How do I download GST invoice for order 91083? Customer id C91083.,Billing & Payments,P3,en,app
+T0422,I did not request this password reset. Possible account takeover. Ticket for order follow-up.,Account / KYC / Login,P1,en,web
+T0423,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,whatsapp
+T0424,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। कृपया जल्दी जवाब दें।",Account / KYC / Login,P2,hi,whatsapp
+T0425,App crashes on launch since the last update. Completely unusable. Need update today. pls,Technical / App crash,P1,en,app
+T0426,Order 88386 is 4 days late. Tracking has not moved. urgent,Product / Order / Delivery,P2,en,whatsapp
+T0427,I want to report spam messages in the in-app inbox. Ticket for order follow-up.,Abuse / Safety / Fraud,P3,en,email
+T0428,"मेरे खाते से ₹2,050 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। ग्राहक आईडी C45247।",Billing & Payments,P1,hi,app
+T0429,"पिछले बिल में अतिरिक्त शुल्क ₹2,050 क्यों लगाया गया?",Billing & Payments,P3,hi,app
+T0430,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है।",Account / KYC / Login,P2,hi,email
+T0431,Checkout page spins forever on Android 14. Order cannot be placed. Raised via app chat. urgent,Technical / App crash,P2,en,web
+T0432,"Seller off-app payment maang raha hai, scam lag raha hai. customer id C91289.",Abuse / Safety / Fraud,P2,hinglish,whatsapp
+T0433,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. customer id C95332.",Abuse / Safety / Fraud,P1,hinglish,email
+T0434,Dark mode contrast is too low on the settings screen.,Technical / App crash,P3,en,web
+T0435,A user threatened me in chat and shared my address. Unsafe. Customer id C92955.,Abuse / Safety / Fraud,P1,en,web
+T0436,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. kripya jaldi reply do.",Abuse / Safety / Fraud,P1,hinglish,email
+T0437,Paid order 81516 marked delivered but nothing arrived. This is urgent. Please help.,Product / Order / Delivery,P1,en,whatsapp
+T0438,Help centre me Hindi articles add karo please. customer id C37479.,Feedback / General,P3,hinglish,app
+T0439,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. bahut zaruri hai bhai.",Abuse / Safety / Fraud,P1,hinglish,email
+T0440,Someone else logged into my account. Please freeze it now.,Account / KYC / Login,P1,en,app
+T0441,App crashes on launch since the last update. Completely unusable.,Technical / App crash,P1,en,whatsapp
+T0442,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,app
+T0443,"Thanks, the refund for invoice 42536 arrived. Just confirming. Ticket for order follow-up.",Billing & Payments,P4,en,app
+T0444,"Settings page slow hai, 5 second lagata hai load hone me. customer id C94545.",Technical / App crash,P3,hinglish,whatsapp
+T0445,"Thanks, the refund for invoice 11382 arrived. Just confirming. Raised via app chat.",Billing & Payments,P4,en,email
+T0446,App crashes on launch since the last update. Completely unusable.,Technical / App crash,P1,en,email
+T0447,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। यह बहुत जरूरी है।,Account / KYC / Login,P1,hi,app
+T0448,FYI I updated my billing address. No issue otherwise. Raised via app chat.,Billing & Payments,P4,en,email
+T0449,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है।,Technical / App crash,P2,hi,whatsapp
+T0450,How do I change the registered mobile number on my profile? Please help.,Account / KYC / Login,P3,en,app
+T0451,Charged ₹499 but the service is completely down. Need an immediate refund. Ticket for order follow-up.,Billing & Payments,P1,en,email
+T0452,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C32865।,Technical / App crash,P2,hi,whatsapp
+T0453,"Last bill me extra ₹1,299 kyun add kiya, samjhao. bahut zaruri hai bhai.",Billing & Payments,P3,hinglish,whatsapp
+T0454,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,whatsapp
+T0455,Payment was deducted twice for invoice 38153 and my account still shows overdue. Raised via app chat.,Billing & Payments,P1,en,app
+T0456,"Settings page slow hai, 5 second lagata hai load hone me. customer id C23336.",Technical / App crash,P3,hinglish,whatsapp
+T0457,FYI I updated my billing address. No issue otherwise. waiting since morning.,Billing & Payments,P4,en,whatsapp
+T0458,Paid order 24972 marked delivered but nothing arrived. This is urgent. waiting since morning.,Product / Order / Delivery,P1,en,email
+T0459,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho.",Abuse / Safety / Fraud,P1,hinglish,email
+T0460,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,web
+T0461,"Mera order nahi aaya, tracking 4 din se same hai.",Product / Order / Delivery,P2,hinglish,whatsapp
+T0462,Registered number kaise change karein profile me?,Account / KYC / Login,P3,hinglish,email
+T0463,Checkout pe app hang ho jati hai Android pe. customer id C31871.,Technical / App crash,P2,hinglish,web
+T0464,"Seller off-app payment maang raha hai, scam lag raha hai. customer id C69113.",Abuse / Safety / Fraud,P2,hinglish,whatsapp
+T0465,मेरे खाते से ₹89 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।,Billing & Payments,P1,hi,whatsapp
+T0466,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,whatsapp
+T0467,The new search is nicer. Small suggestion: remember last filter. Please help.,Technical / App crash,P4,en,email
+T0468,Cannot login after KYC update. OTP never arrives. Customer id C14285.,Account / KYC / Login,P2,en,email
+T0469,I want to report spam messages in the in-app inbox. Need update today.,Abuse / Safety / Fraud,P3,en,web
+T0470,I want to report spam messages in the in-app inbox. Please help.,Abuse / Safety / Fraud,P3,en,whatsapp
+T0471,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. kripya jaldi reply do.",Technical / App crash,P1,hinglish,email
+T0472,PAN upload keeps failing and I am locked out of the dashboard. Raised via app chat.,Account / KYC / Login,P2,en,app
+T0473,App crashes on launch since the last update. Completely unusable. Customer id C25386.,Technical / App crash,P1,en,web
+T0474,Could you add Hindi language to the help centre articles? Ticket for order follow-up.,Feedback / General,P3,en,email
+T0475,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho.",Abuse / Safety / Fraud,P1,hinglish,web
+T0476,Order 80617 is 4 days late. Tracking has not moved. waiting since morning.,Product / Order / Delivery,P2,en,web
+T0477,Cannot login after KYC update. OTP never arrives. Need update today.,Account / KYC / Login,P2,en,whatsapp
+T0478,हेल्प सेंटर में हिंदी लेख जोड़िए। कृपया जल्दी जवाब दें।,Feedback / General,P3,hi,email
+T0479,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. bahut zaruri hai bhai.",Billing & Payments,P4,hinglish,whatsapp
+T0480,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,app
+T0481,Order 22202 arrived in good condition. Thank you. Raised via app chat.,Product / Order / Delivery,P4,en,web
+T0482,Checkout page spins forever on Android 14. Order cannot be placed. Please help.,Technical / App crash,P2,en,app
+T0483,Phishing SMS used your brand. They asked for OTP. Please investigate. Need update today.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0484,"UPI fail hua lekin paise nahi aaye wapas, TXN66314 check karo.",Billing & Payments,P2,hinglish,web
+T0485,"KYC approved, thanks for the quick help.",Account / KYC / Login,P4,en,app
+T0486,UPI payment failed yet ₹89 left my bank. Transaction id TXN23051. Please help.,Billing & Payments,P2,en,email
+T0487,App crashes on launch since the last update. Completely unusable.,Technical / App crash,P1,en,email
+T0488,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up.,Feedback / General,P4,en,web
+T0489,How do I download GST invoice for order 95798? Raised via app chat.,Billing & Payments,P3,en,email
+T0490,I cannot pay my bill. Card is declined every time I try checkout. Customer id C61949.,Billing & Payments,P2,en,app
+T0491,Delivery slot Saturday kar sakte ho kya order 22475 ka? bahut zaruri hai bhai.,Product / Order / Delivery,P3,hinglish,email
+T0492,Paid order 39647 marked delivered but nothing arrived. This is urgent. Please help. pls,Product / Order / Delivery,P1,en,app
+T0493,Could you add Hindi language to the help centre articles? urgent,Feedback / General,P3,en,app
+T0494,Phishing SMS used your brand. They asked for OTP. Please investigate. waiting since morning.,Abuse / Safety / Fraud,P1,en,web
+T0495,"मेरे खाते से ₹1,299 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। कृपया जल्दी जवाब दें। ok",Billing & Payments,P1,hi,app
+T0496,Can I change the delivery slot for order 95199 to Saturday?,Product / Order / Delivery,P3,en,email
+T0497,Order 29840 arrived in good condition. Thank you.,Product / Order / Delivery,P4,en,app
+T0498,नया डैशबोर्ड अच्छा लगा। धन्यवाद। यह बहुत जरूरी है।,Feedback / General,P4,hi,whatsapp
+T0499,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। कृपया जल्दी जवाब दें।,Account / KYC / Login,P1,hi,app
+T0500,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. kripya jaldi reply do.",Billing & Payments,P4,hinglish,web
+T0501,"UPI fail hua lekin paise nahi aaye wapas, TXN77862 check karo.",Billing & Payments,P2,hinglish,app
+T0502,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,whatsapp
+T0503,Order 87847 arrived in good condition. Thank you. Please help.,Product / Order / Delivery,P4,en,web
+T0504,मेरे खाते से ₹89 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। ग्राहक आईडी C60703।,Billing & Payments,P1,hi,email
+T0505,Seller listing looks fake. They asked me to pay off-app. Please help.,Abuse / Safety / Fraud,P2,en,app
+T0506,Someone else logged into my account. Please freeze it now. Please help.,Account / KYC / Login,P1,en,whatsapp
+T0507,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही।,Technical / App crash,P1,hi,app
+T0508,Order 80328 arrived in good condition. Thank you. Raised via app chat.,Product / Order / Delivery,P4,en,app
+T0509,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही।,Technical / App crash,P1,hi,app
+T0510,PAN upload keeps failing and I am locked out of the dashboard. Please help.,Account / KYC / Login,P2,en,whatsapp
+T0511,FYI I updated my billing address. No issue otherwise. Raised via app chat.,Billing & Payments,P4,en,email
+T0512,FYI I updated my billing address. No issue otherwise. Please help.,Billing & Payments,P4,en,web
+T0513,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। कृपया जल्दी जवाब दें।,Technical / App crash,P2,hi,web
+T0514,Phishing SMS used your brand. They asked for OTP. Please investigate. waiting since morning.,Abuse / Safety / Fraud,P1,en,web
+T0515,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है।,Technical / App crash,P2,hi,whatsapp
+T0516,Checkout page spins forever on Android 14. Order cannot be placed. Please help.,Technical / App crash,P2,en,email
+T0517,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,app
+T0518,"Last bill me extra ₹499 kyun add kiya, samjhao. kripya jaldi reply do.",Billing & Payments,P3,hinglish,app
+T0519,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. customer id C16026.",Billing & Payments,P4,hinglish,email
+T0520,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। कृपया जल्दी जवाब दें।",Billing & Payments,P4,hi,whatsapp
+T0521,हेल्प सेंटर में हिंदी लेख जोड़िए। यह बहुत जरूरी है।,Feedback / General,P3,hi,app
+T0522,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। कृपया जल्दी जवाब दें।,Technical / App crash,P1,hi,app
+T0523,"Kisi aur ne mera account hack kar liya hai, turant band karo. customer id C19034.",Account / KYC / Login,P1,hinglish,web
+T0524,How do I change the registered mobile number on my profile? Please help.,Account / KYC / Login,P3,en,web
+T0525,"Settings page slow hai, 5 second lagata hai load hone me.",Technical / App crash,P3,hinglish,whatsapp
+T0526,I want to report spam messages in the in-app inbox. Ticket for order follow-up. urgent,Abuse / Safety / Fraud,P3,en,app
+T0527,"Last bill me extra ₹2,050 kyun add kiya, samjhao. kripya jaldi reply do.",Billing & Payments,P3,hinglish,app
+T0528,Seller listing looks fake. They asked me to pay off-app. Raised via app chat.,Abuse / Safety / Fraud,P2,en,email
+T0529,"Login nahi ho raha, OTP nahi aa raha hai. bahut zaruri hai bhai.",Account / KYC / Login,P2,hinglish,app
+T0530,UPI payment failed yet ₹89 left my bank. Transaction id TXN40339. waiting since morning.,Billing & Payments,P2,en,app
+T0531,Paid order 22527 marked delivered but nothing arrived. This is urgent. ok,Product / Order / Delivery,P1,en,app
+T0532,Registered number kaise change karein profile me? bahut zaruri hai bhai.,Account / KYC / Login,P3,hinglish,web
+T0533,"Naya dashboard bahut accha hai, shukriya. customer id C61505.",Feedback / General,P4,hinglish,email
+T0534,"Please explain the extra ₹1,299 convenience fee on last month's invoice. Need update today.",Billing & Payments,P3,en,email
+T0535,App crashes on launch since the last update. Completely unusable.,Technical / App crash,P1,en,web
+T0536,I want to report spam messages in the in-app inbox. Raised via app chat.,Abuse / Safety / Fraud,P3,en,app
+T0537,How do I download GST invoice for order 30658? Please help.,Billing & Payments,P3,en,web
+T0538,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN21955 चेक करें। ग्राहक आईडी C21955।,Billing & Payments,P2,hi,app
+T0539,"Order 49169 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. bahut zaruri hai bhai. urgent",Product / Order / Delivery,P1,hinglish,whatsapp
+T0540,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,email
+T0541,FYI I updated my billing address. No issue otherwise. Customer id C11567.,Billing & Payments,P4,en,whatsapp
+T0542,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है।",Account / KYC / Login,P2,hi,app
+T0543,"Charged ₹1,299 but the service is completely down. Need an immediate refund.",Billing & Payments,P1,en,app
+T0544,नया डैशबोर्ड अच्छा लगा। धन्यवाद। यह बहुत जरूरी है।,Feedback / General,P4,hi,app
+T0545,पिछले बिल में अतिरिक्त शुल्क ₹89 क्यों लगाया गया?,Billing & Payments,P3,hi,whatsapp
+T0546,"Order 65923 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. customer id C65923.",Product / Order / Delivery,P1,hinglish,email
+T0547,I did not request this password reset. Possible account takeover. Ticket for order follow-up. ok,Account / KYC / Login,P1,en,email
+T0548,ऑर्डर 48680 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं।,Product / Order / Delivery,P1,hi,whatsapp
+T0549,I cannot pay my bill. Card is declined every time I try checkout.,Billing & Payments,P2,en,email
+T0550,ऑर्डर 78919 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं।,Product / Order / Delivery,P1,hi,whatsapp
+T0551,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,web
+T0552,हेल्प सेंटर में हिंदी लेख जोड़िए।,Feedback / General,P3,hi,app
+T0553,How do I change the registered mobile number on my profile? Please help.,Account / KYC / Login,P3,en,web
+T0554,I cannot pay my bill. Card is declined every time I try checkout. Customer id C71824.,Billing & Payments,P2,en,app
+T0555,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. customer id C96096.",Billing & Payments,P4,hinglish,app
+T0556,Seller listing looks fake. They asked me to pay off-app. waiting since morning.,Abuse / Safety / Fraud,P2,en,email
+T0557,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। ग्राहक आईडी C41005।",Billing & Payments,P4,hi,app
+T0558,Delivery slot Saturday kar sakte ho kya order 56095 ka?,Product / Order / Delivery,P3,hinglish,whatsapp
+T0559,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. ??",Technical / App crash,P1,hinglish,email
+T0560,Order 38679 is 4 days late. Tracking has not moved. ok,Product / Order / Delivery,P2,en,email
+T0561,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। कृपया जल्दी जवाब दें।,Abuse / Safety / Fraud,P2,hi,web
+T0562,I cannot pay my bill. Card is declined every time I try checkout. Ticket for order follow-up.,Billing & Payments,P2,en,web
+T0563,Please explain the extra ₹89 convenience fee on last month's invoice. Need update today.,Billing & Payments,P3,en,web
+T0564,मेरे खाते से ₹89 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।,Billing & Payments,P1,hi,email
+T0565,Delivery slot Saturday kar sakte ho kya order 83659 ka? bahut zaruri hai bhai.,Product / Order / Delivery,P3,hinglish,email
+T0566,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? कृपया जल्दी जवाब दें।,Account / KYC / Login,P3,hi,app
+T0567,Help centre me Hindi articles add karo please. ok,Feedback / General,P3,hinglish,web
+T0568,हेल्प सेंटर में हिंदी लेख जोड़िए।,Feedback / General,P3,hi,whatsapp
+T0569,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN53406 चेक करें। कृपया जल्दी जवाब दें।,Billing & Payments,P2,hi,web
+T0570,पिछले बिल में अतिरिक्त शुल्क ₹499 क्यों लगाया गया? ग्राहक आईडी C93386।,Billing & Payments,P3,hi,web
+T0571,"UPI fail hua lekin paise nahi aaye wapas, TXN42707 check karo. customer id C42707.",Billing & Payments,P2,hinglish,app
+T0572,Phishing SMS used your brand. They asked for OTP. Please investigate.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0573,पिछले बिल में अतिरिक्त शुल्क ₹89 क्यों लगाया गया?,Billing & Payments,P3,hi,whatsapp
+T0574,"Thanks, the refund for invoice 72847 arrived. Just confirming. Ticket for order follow-up.",Billing & Payments,P4,en,app
+T0575,Cannot login after KYC update. OTP never arrives. Raised via app chat.,Account / KYC / Login,P2,en,app
+T0576,"KYC approved, thanks for the quick help. Ticket for order follow-up.",Account / KYC / Login,P4,en,app
+T0577,"KYC approved, thanks for the quick help. Please help.",Account / KYC / Login,P4,en,email
+T0578,Order 66911 is 4 days late. Tracking has not moved. Please help.,Product / Order / Delivery,P2,en,email
+T0579,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. customer id C63645.",Billing & Payments,P1,hinglish,app
+T0580,I cannot pay my bill. Card is declined every time I try checkout. Ticket for order follow-up. ??,Billing & Payments,P2,en,whatsapp
+T0581,How do I download GST invoice for order 48607? Customer id C48607.,Billing & Payments,P3,en,email
+T0582,"पिछले बिल में अतिरिक्त शुल्क ₹2,050 क्यों लगाया गया? यह बहुत जरूरी है।",Billing & Payments,P3,hi,app
+T0583,PAN upload keeps failing and I am locked out of the dashboard.,Account / KYC / Login,P2,en,web
+T0584,How do I download GST invoice for order 94130? Ticket for order follow-up.,Billing & Payments,P3,en,whatsapp
+T0585,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,whatsapp
+T0586,Someone else logged into my account. Please freeze it now. Please help.,Account / KYC / Login,P1,en,app
+T0587,How do I download GST invoice for order 97574?,Billing & Payments,P3,en,email
+T0588,Checkout pe app hang ho jati hai Android pe.,Technical / App crash,P2,hinglish,whatsapp
+T0589,"Settings page slow hai, 5 second lagata hai load hone me. customer id C40886. ??",Technical / App crash,P3,hinglish,email
+T0590,FYI I updated my billing address. No issue otherwise. Ticket for order follow-up.,Billing & Payments,P4,en,email
+T0591,मेरे खाते से ₹89 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। यह बहुत जरूरी है।,Billing & Payments,P1,hi,whatsapp
+T0592,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do.",Billing & Payments,P1,hinglish,app
+T0593,How do I download GST invoice for order 60868? waiting since morning.,Billing & Payments,P3,en,whatsapp
+T0594,हेल्प सेंटर में हिंदी लेख जोड़िए। यह बहुत जरूरी है।,Feedback / General,P3,hi,email
+T0595,"Settings page slow hai, 5 second lagata hai load hone me. kripya jaldi reply do.",Technical / App crash,P3,hinglish,app
+T0596,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,whatsapp
+T0597,"Settings page slow hai, 5 second lagata hai load hone me. kripya jaldi reply do.",Technical / App crash,P3,hinglish,whatsapp
+T0598,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN91034 चेक करें। यह बहुत जरूरी है।,Billing & Payments,P2,hi,web
+T0599,"Mera order nahi aaya, tracking 4 din se same hai.",Product / Order / Delivery,P2,hinglish,web
+T0600,"Charged ₹2,050 but the service is completely down. Need an immediate refund. Raised via app chat.",Billing & Payments,P1,en,whatsapp
+T0601,Love the new dashboard. Keep it up. Customer id C99764.,Feedback / General,P4,en,whatsapp
+T0602,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,app
+T0603,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do.",Billing & Payments,P1,hinglish,web
+T0604,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. kripya jaldi reply do.",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0605,मेरे खाते से ₹499 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। कृपया जल्दी जवाब दें।,Billing & Payments,P1,hi,email
+T0606,"Seller off-app payment maang raha hai, scam lag raha hai. kripya jaldi reply do.",Abuse / Safety / Fraud,P2,hinglish,web
+T0607,Delivery slot Saturday kar sakte ho kya order 36097 ka? customer id C36097.,Product / Order / Delivery,P3,hinglish,whatsapp
+T0608,Order 26236 arrived in good condition. Thank you. Customer id C26236.,Product / Order / Delivery,P4,en,whatsapp
+T0609,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। ग्राहक आईडी C72204।",Billing & Payments,P4,hi,web
+T0610,A user threatened me in chat and shared my address. Unsafe. Please help.,Abuse / Safety / Fraud,P1,en,email
+T0611,Love the new dashboard. Keep it up. Customer id C85007.,Feedback / General,P4,en,email
+T0612,I did not request this password reset. Possible account takeover. Please help.,Account / KYC / Login,P1,en,app
+T0613,Dark mode contrast is too low on the settings screen. Please help.,Technical / App crash,P3,en,web
+T0614,Delivery slot Saturday kar sakte ho kya order 94245 ka?,Product / Order / Delivery,P3,hinglish,web
+T0615,Checkout page spins forever on Android 14. Order cannot be placed.,Technical / App crash,P2,en,whatsapp
+T0616,Paid order 23410 marked delivered but nothing arrived. This is urgent. waiting since morning.,Product / Order / Delivery,P1,en,web
+T0617,PAN upload keeps failing and I am locked out of the dashboard. pls,Account / KYC / Login,P2,en,web
+T0618,Could you add Hindi language to the help centre articles? Raised via app chat.,Feedback / General,P3,en,email
+T0619,नया डैशबोर्ड अच्छा लगा। धन्यवाद। ग्राहक आईडी C17441।,Feedback / General,P4,hi,app
+T0620,ऑर्डर 75191 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। ग्राहक आईडी C75191।,Product / Order / Delivery,P1,hi,whatsapp
+T0621,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? ग्राहक आईडी C14629।,Account / KYC / Login,P3,hi,email
+T0622,"Order 80075 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. customer id C80075.",Product / Order / Delivery,P1,hinglish,email
+T0623,"Seller off-app payment maang raha hai, scam lag raha hai. customer id C96194.",Abuse / Safety / Fraud,P2,hinglish,email
+T0624,A user threatened me in chat and shared my address. Unsafe. waiting since morning.,Abuse / Safety / Fraud,P1,en,email
+T0625,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,web
+T0626,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है।",Account / KYC / Login,P2,hi,whatsapp
+T0627,I cannot pay my bill. Card is declined every time I try checkout.,Billing & Payments,P2,en,app
+T0628,Could you add Hindi language to the help centre articles? Raised via app chat.,Feedback / General,P3,en,email
+T0629,"मेरे खाते से ₹2,050 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।",Billing & Payments,P1,hi,whatsapp
+T0630,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN51469 चेक करें। यह बहुत जरूरी है।,Billing & Payments,P2,hi,email
+T0631,How do I change the registered mobile number on my profile? Please help.,Account / KYC / Login,P3,en,email
+T0632,Seller listing looks fake. They asked me to pay off-app.,Abuse / Safety / Fraud,P2,en,app
+T0633,मेरे खाते से ₹89 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।,Billing & Payments,P1,hi,whatsapp
+T0634,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,web
+T0635,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,app
+T0636,Order 42613 arrived in good condition. Thank you. waiting since morning.,Product / Order / Delivery,P4,en,app
+T0637,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? कृपया जल्दी जवाब दें। ??,Account / KYC / Login,P3,hi,web
+T0638,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,web
+T0639,Registered number kaise change karein profile me?,Account / KYC / Login,P3,hinglish,email
+T0640,पिछले बिल में अतिरिक्त शुल्क ₹499 क्यों लगाया गया? कृपया जल्दी जवाब दें।,Billing & Payments,P3,hi,email
+T0641,"UPI fail hua lekin paise nahi aaye wapas, TXN12872 check karo. kripya jaldi reply do.",Billing & Payments,P2,hinglish,app
+T0642,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,app
+T0643,ऑर्डर 24170 चार दिन से अटका हुआ है। यह बहुत जरूरी है।,Product / Order / Delivery,P2,hi,whatsapp
+T0644,App crashes on launch since the last update. Completely unusable. Raised via app chat.,Technical / App crash,P1,en,email
+T0645,"UPI fail hua lekin paise nahi aaye wapas, TXN99881 check karo. customer id C99881.",Billing & Payments,P2,hinglish,app
+T0646,ऑर्डर 78197 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,email
+T0647,"Login nahi ho raha, OTP nahi aa raha hai. customer id C23751.",Account / KYC / Login,P2,hinglish,app
+T0648,The new search is nicer. Small suggestion: remember last filter. Raised via app chat.,Technical / App crash,P4,en,email
+T0649,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। कृपया जल्दी जवाब दें। urgent,Account / KYC / Login,P1,hi,email
+T0650,"Mera order nahi aaya, tracking 4 din se same hai. bahut zaruri hai bhai. ??",Product / Order / Delivery,P2,hinglish,app
+T0651,"Seller off-app payment maang raha hai, scam lag raha hai. bahut zaruri hai bhai.",Abuse / Safety / Fraud,P2,hinglish,app
+T0652,Phishing SMS used your brand. They asked for OTP. Please investigate. Customer id C23276.,Abuse / Safety / Fraud,P1,en,web
+T0653,Someone else logged into my account. Please freeze it now. Need update today.,Account / KYC / Login,P1,en,app
+T0654,Love the new dashboard. Keep it up. waiting since morning.,Feedback / General,P4,en,app
+T0655,"Thanks, the refund for invoice 16014 arrived. Just confirming. Ticket for order follow-up.",Billing & Payments,P4,en,email
+T0656,"KYC approved, thanks for the quick help. Raised via app chat.",Account / KYC / Login,P4,en,app
+T0657,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,whatsapp
+T0658,I did not request this password reset. Possible account takeover.,Account / KYC / Login,P1,en,email
+T0659,FYI I updated my billing address. No issue otherwise. Ticket for order follow-up.,Billing & Payments,P4,en,whatsapp
+T0660,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। कृपया जल्दी जवाब दें।,Abuse / Safety / Fraud,P2,hi,web
+T0661,Can I change the delivery slot for order 13777 to Saturday?,Product / Order / Delivery,P3,en,app
+T0662,Just saying thanks to the support agent who helped yesterday. Please help. pls,Feedback / General,P4,en,app
+T0663,Delivery slot Saturday kar sakte ho kya order 98857 ka? customer id C98857.,Product / Order / Delivery,P3,hinglish,app
+T0664,Registered number kaise change karein profile me?,Account / KYC / Login,P3,hinglish,whatsapp
+T0665,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN83183 चेक करें। यह बहुत जरूरी है।,Billing & Payments,P2,hi,email
+T0666,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। कृपया जल्दी जवाब दें। urgent,Technical / App crash,P1,hi,web
+T0667,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. kripya jaldi reply do.",Billing & Payments,P4,hinglish,whatsapp
+T0668,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,whatsapp
+T0669,How do I download GST invoice for order 75333? waiting since morning.,Billing & Payments,P3,en,whatsapp
+T0670,A user threatened me in chat and shared my address. Unsafe. Need update today.,Abuse / Safety / Fraud,P1,en,app
+T0671,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,web
+T0672,Just saying thanks to the support agent who helped yesterday.,Feedback / General,P4,en,web
+T0673,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho.",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0674,Delivery slot Saturday kar sakte ho kya order 96136 ka?,Product / Order / Delivery,P3,hinglish,email
+T0675,Payment was deducted twice for invoice 54742 and my account still shows overdue. Raised via app chat.,Billing & Payments,P1,en,web
+T0676,"Mera order nahi aaya, tracking 4 din se same hai. bahut zaruri hai bhai.",Product / Order / Delivery,P2,hinglish,whatsapp
+T0677,"Thanks, the refund for invoice 43330 arrived. Just confirming. Customer id C43330.",Billing & Payments,P4,en,whatsapp
+T0678,"UPI fail hua lekin paise nahi aaye wapas, TXN69905 check karo. customer id C69905.",Billing & Payments,P2,hinglish,whatsapp
+T0679,UPI payment failed yet ₹499 left my bank. Transaction id TXN93000.,Billing & Payments,P2,en,email
+T0680,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,whatsapp
+T0681,"Naya dashboard bahut accha hai, shukriya.",Feedback / General,P4,hinglish,email
+T0682,"Thanks, the refund for invoice 60778 arrived. Just confirming.",Billing & Payments,P4,en,email
+T0683,I did not request this password reset. Possible account takeover. Raised via app chat.,Account / KYC / Login,P1,en,email
+T0684,"मेरे खाते से ₹2,050 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।",Billing & Payments,P1,hi,email
+T0685,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. customer id C37487.",Billing & Payments,P1,hinglish,email
+T0686,Delivery slot Saturday kar sakte ho kya order 95208 ka?,Product / Order / Delivery,P3,hinglish,web
+T0687,Delivery slot Saturday kar sakte ho kya order 25126 ka?,Product / Order / Delivery,P3,hinglish,whatsapp
+T0688,"Order 79979 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,app
+T0689,"Charged ₹1,299 but the service is completely down. Need an immediate refund. Please help.",Billing & Payments,P1,en,email
+T0690,I did not request this password reset. Possible account takeover. Raised via app chat.,Account / KYC / Login,P1,en,app
+T0691,"Mera order nahi aaya, tracking 4 din se same hai. urgent",Product / Order / Delivery,P2,hinglish,app
+T0692,Can I change the delivery slot for order 98542 to Saturday?,Product / Order / Delivery,P3,en,web
+T0693,"Mera order nahi aaya, tracking 4 din se same hai.",Product / Order / Delivery,P2,hinglish,web
+T0694,Checkout pe app hang ho jati hai Android pe. customer id C17051.,Technical / App crash,P2,hinglish,whatsapp
+T0695,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,email
+T0696,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,app
+T0697,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। pls",Billing & Payments,P4,hi,web
+T0698,"मेरे खाते से ₹2,050 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। यह बहुत जरूरी है।",Billing & Payments,P1,hi,email
+T0699,"UPI payment failed yet ₹2,050 left my bank. Transaction id TXN30146. Please help.",Billing & Payments,P2,en,web
+T0700,The new search is nicer. Small suggestion: remember last filter. Need update today.,Technical / App crash,P4,en,web
+T0701,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ok,Technical / App crash,P2,hi,email
+T0702,"Login nahi ho raha, OTP nahi aa raha hai. kripya jaldi reply do.",Account / KYC / Login,P2,hinglish,email
+T0703,ऑर्डर 53500 चार दिन से अटका हुआ है। ग्राहक आईडी C53500।,Product / Order / Delivery,P2,hi,whatsapp
+T0704,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,whatsapp
+T0705,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. kripya jaldi reply do.",Billing & Payments,P4,hinglish,web
+T0706,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? ग्राहक आईडी C24860।,Account / KYC / Login,P3,hi,web
+T0707,"Charged ₹2,050 but the service is completely down. Need an immediate refund.",Billing & Payments,P1,en,web
+T0708,नया डैशबोर्ड अच्छा लगा। धन्यवाद। ग्राहक आईडी C95397।,Feedback / General,P4,hi,app
+T0709,पिछले बिल में अतिरिक्त शुल्क ₹499 क्यों लगाया गया? यह बहुत जरूरी है।,Billing & Payments,P3,hi,email
+T0710,Could you add Hindi language to the help centre articles? Need update today.,Feedback / General,P3,en,whatsapp
+T0711,ऑर्डर 19452 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। यह बहुत जरूरी है।,Product / Order / Delivery,P1,hi,web
+T0712,UPI payment failed yet ₹499 left my bank. Transaction id TXN21471. Please help.,Billing & Payments,P2,en,web
+T0713,Checkout pe app hang ho jati hai Android pe. customer id C19232.,Technical / App crash,P2,hinglish,whatsapp
+T0714,Order 63011 arrived in good condition. Thank you. waiting since morning. ??,Product / Order / Delivery,P4,en,app
+T0715,ऑर्डर 91048 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। ??,Product / Order / Delivery,P1,hi,web
+T0716,"Naya dashboard bahut accha hai, shukriya. customer id C75907.",Feedback / General,P4,hinglish,web
+T0717,Order 21338 is 4 days late. Tracking has not moved.,Product / Order / Delivery,P2,en,app
+T0718,Dark mode contrast is too low on the settings screen. Ticket for order follow-up.,Technical / App crash,P3,en,web
+T0719,Order 28884 arrived in good condition. Thank you. waiting since morning.,Product / Order / Delivery,P4,en,app
+T0720,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do. ok,Technical / App crash,P2,hinglish,whatsapp
+T0721,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. customer id C81765.",Technical / App crash,P1,hinglish,web
+T0722,"UPI fail hua lekin paise nahi aaye wapas, TXN64087 check karo. bahut zaruri hai bhai.",Billing & Payments,P2,hinglish,web
+T0723,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do.",Billing & Payments,P1,hinglish,whatsapp
+T0724,ऑर्डर 82045 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। ग्राहक आईडी C82045।,Product / Order / Delivery,P1,hi,web
+T0725,"Thanks, the refund for invoice 35875 arrived. Just confirming. waiting since morning.",Billing & Payments,P4,en,email
+T0726,"Thanks, the refund for invoice 47373 arrived. Just confirming. Customer id C47373.",Billing & Payments,P4,en,whatsapp
+T0727,"KYC approved, thanks for the quick help. Ticket for order follow-up.",Account / KYC / Login,P4,en,web
+T0728,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। कृपया जल्दी जवाब दें। !!!,Abuse / Safety / Fraud,P2,hi,email
+T0729,Delivery slot Saturday kar sakte ho kya order 93995 ka? customer id C93995.,Product / Order / Delivery,P3,hinglish,email
+T0730,"Order 53458 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,web
+T0731,The new search is nicer. Small suggestion: remember last filter. Ticket for order follow-up.,Technical / App crash,P4,en,app
+T0732,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,app
+T0733,Phishing SMS used your brand. They asked for OTP. Please investigate. Please help.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0734,I want to report spam messages in the in-app inbox. Please help.,Abuse / Safety / Fraud,P3,en,whatsapp
+T0735,ऑर्डर 29481 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं।,Product / Order / Delivery,P1,hi,web
+T0736,मेरे खाते से ₹499 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।,Billing & Payments,P1,hi,app
+T0737,ऑर्डर 41310 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,email
+T0738,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है।",Billing & Payments,P4,hi,app
+T0739,"Last bill me extra ₹1,299 kyun add kiya, samjhao. kripya jaldi reply do.",Billing & Payments,P3,hinglish,email
+T0740,"UPI payment failed yet ₹1,299 left my bank. Transaction id TXN97632. waiting since morning.",Billing & Payments,P2,en,whatsapp
+T0741,Just saying thanks to the support agent who helped yesterday. waiting since morning.,Feedback / General,P4,en,web
+T0742,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,web
+T0743,Paid order 95634 marked delivered but nothing arrived. This is urgent. Raised via app chat.,Product / Order / Delivery,P1,en,email
+T0744,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C63194।,Technical / App crash,P2,hi,whatsapp
+T0745,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up.,Feedback / General,P4,en,email
+T0746,"Please explain the extra ₹2,050 convenience fee on last month's invoice. Customer id C77441.",Billing & Payments,P3,en,email
+T0747,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। कृपया जल्दी जवाब दें।",Account / KYC / Login,P2,hi,web
+T0748,Phishing SMS used your brand. They asked for OTP. Please investigate.,Abuse / Safety / Fraud,P1,en,email
+T0749,ऑर्डर 63857 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। कृपया जल्दी जवाब दें। ok,Product / Order / Delivery,P1,hi,email
+T0750,मेरे खाते से ₹499 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए।,Billing & Payments,P1,hi,email
+T0751,Someone else logged into my account. Please freeze it now. Please help.,Account / KYC / Login,P1,en,web
+T0752,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,whatsapp
+T0753,Could you add Hindi language to the help centre articles? Customer id C73133.,Feedback / General,P3,en,email
+T0754,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,web
+T0755,"पिछले बिल में अतिरिक्त शुल्क ₹2,050 क्यों लगाया गया?",Billing & Payments,P3,hi,app
+T0756,"Last bill me extra ₹89 kyun add kiya, samjhao. bahut zaruri hai bhai.",Billing & Payments,P3,hinglish,email
+T0757,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। कृपया जल्दी जवाब दें।,Technical / App crash,P2,hi,email
+T0758,Dark mode contrast is too low on the settings screen. Need update today.,Technical / App crash,P3,en,email
+T0759,नया डैशबोर्ड अच्छा लगा। धन्यवाद।,Feedback / General,P4,hi,web
+T0760,Could you add Hindi language to the help centre articles? Customer id C15693.,Feedback / General,P3,en,whatsapp
+T0761,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,app
+T0762,Registered number kaise change karein profile me?,Account / KYC / Login,P3,hinglish,app
+T0763,Cannot login after KYC update. OTP never arrives. Raised via app chat.,Account / KYC / Login,P2,en,app
+T0764,"Settings page slow hai, 5 second lagata hai load hone me. !!!",Technical / App crash,P3,hinglish,web
+T0765,"Login nahi ho raha, OTP nahi aa raha hai. bahut zaruri hai bhai.",Account / KYC / Login,P2,hinglish,web
+T0766,Someone else logged into my account. Please freeze it now. waiting since morning.,Account / KYC / Login,P1,en,whatsapp
+T0767,Seller listing looks fake. They asked me to pay off-app.,Abuse / Safety / Fraud,P2,en,whatsapp
+T0768,Someone else logged into my account. Please freeze it now.,Account / KYC / Login,P1,en,app
+T0769,A user threatened me in chat and shared my address. Unsafe. Ticket for order follow-up.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0770,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है। कृपया जल्दी जवाब दें।",Abuse / Safety / Fraud,P1,hi,app
+T0771,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है।,Abuse / Safety / Fraud,P2,hi,whatsapp
+T0772,How do I download GST invoice for order 18399? Customer id C18399.,Billing & Payments,P3,en,app
+T0773,Phishing SMS used your brand. They asked for OTP. Please investigate. Raised via app chat.,Abuse / Safety / Fraud,P1,en,app
+T0774,Help centre me Hindi articles add karo please. ok,Feedback / General,P3,hinglish,web
+T0775,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do.",Billing & Payments,P1,hinglish,app
+T0776,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। कृपया जल्दी जवाब दें।",Account / KYC / Login,P2,hi,web
+T0777,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,email
+T0778,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। यह बहुत जरूरी है।,Technical / App crash,P2,hi,web
+T0779,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,whatsapp
+T0780,"Naya dashboard bahut accha hai, shukriya. customer id C62947.",Feedback / General,P4,hinglish,app
+T0781,Checkout pe app hang ho jati hai Android pe. customer id C19487.,Technical / App crash,P2,hinglish,web
+T0782,Just saying thanks to the support agent who helped yesterday.,Feedback / General,P4,en,whatsapp
+T0783,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,app
+T0784,Dark mode contrast is too low on the settings screen. Need update today.,Technical / App crash,P3,en,email
+T0785,"Order 40137 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,app
+T0786,"Mera order nahi aaya, tracking 4 din se same hai. customer id C44517.",Product / Order / Delivery,P2,hinglish,web
+T0787,"Please explain the extra ₹1,299 convenience fee on last month's invoice.",Billing & Payments,P3,en,email
+T0788,नया डैशबोर्ड अच्छा लगा। धन्यवाद। कृपया जल्दी जवाब दें।,Feedback / General,P4,hi,email
+T0789,The new search is nicer. Small suggestion: remember last filter. Customer id C36170.,Technical / App crash,P4,en,email
+T0790,"Last bill me extra ₹1,299 kyun add kiya, samjhao.",Billing & Payments,P3,hinglish,app
+T0791,FYI I updated my billing address. No issue otherwise. Please help.,Billing & Payments,P4,en,app
+T0792,Love the new dashboard. Keep it up. waiting since morning.,Feedback / General,P4,en,web
+T0793,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,email
+T0794,I cannot pay my bill. Card is declined every time I try checkout.,Billing & Payments,P2,en,app
+T0795,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। कृपया जल्दी जवाब दें।,Technical / App crash,P1,hi,app
+T0796,"Mera order nahi aaya, tracking 4 din se same hai. customer id C77922.",Product / Order / Delivery,P2,hinglish,app
+T0797,"Order 37623 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,web
+T0798,Can I change the delivery slot for order 44039 to Saturday? Raised via app chat.,Product / Order / Delivery,P3,en,whatsapp
+T0799,Can I change the delivery slot for order 54970 to Saturday? Ticket for order follow-up.,Product / Order / Delivery,P3,en,email
+T0800,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,email
+T0801,"Settings page slow hai, 5 second lagata hai load hone me. kripya jaldi reply do.",Technical / App crash,P3,hinglish,email
+T0802,Checkout pe app hang ho jati hai Android pe. bahut zaruri hai bhai.,Technical / App crash,P2,hinglish,email
+T0803,Dark mode contrast is too low on the settings screen.,Technical / App crash,P3,en,web
+T0804,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है। ग्राहक आईडी C73782।",Abuse / Safety / Fraud,P1,hi,app
+T0805,"Kisi aur ne mera account hack kar liya hai, turant band karo. kripya jaldi reply do.",Account / KYC / Login,P1,hinglish,web
+T0806,Dark mode contrast is too low on the settings screen.,Technical / App crash,P3,en,web
+T0807,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। ग्राहक आईडी C57226। ??",Account / KYC / Login,P2,hi,web
+T0808,Could you add Hindi language to the help centre articles? Ticket for order follow-up.,Feedback / General,P3,en,web
+T0809,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,whatsapp
+T0810,Can I change the delivery slot for order 47555 to Saturday? Ticket for order follow-up.,Product / Order / Delivery,P3,en,web
+T0811,"Login nahi ho raha, OTP nahi aa raha hai. kripya jaldi reply do. pls",Account / KYC / Login,P2,hinglish,email
+T0812,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,whatsapp
+T0813,I did not request this password reset. Possible account takeover.,Account / KYC / Login,P1,en,email
+T0814,Love the new dashboard. Keep it up. Customer id C13027.,Feedback / General,P4,en,app
+T0815,"UPI fail hua lekin paise nahi aaye wapas, TXN31877 check karo. kripya jaldi reply do.",Billing & Payments,P2,hinglish,whatsapp
+T0816,Checkout pe app hang ho jati hai Android pe.,Technical / App crash,P2,hinglish,app
+T0817,"Thanks, the refund for invoice 44400 arrived. Just confirming. Need update today.",Billing & Payments,P4,en,whatsapp
+T0818,PAN upload keeps failing and I am locked out of the dashboard. Raised via app chat.,Account / KYC / Login,P2,en,email
+T0819,"मेरे खाते से ₹1,299 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। यह बहुत जरूरी है। pls",Billing & Payments,P1,hi,web
+T0820,Could you add Hindi language to the help centre articles? Raised via app chat.,Feedback / General,P3,en,email
+T0821,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,whatsapp
+T0822,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C93858।,Technical / App crash,P2,hi,email
+T0823,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। ग्राहक आईडी C21738।,Abuse / Safety / Fraud,P2,hi,web
+T0824,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN49789 चेक करें। यह बहुत जरूरी है।,Billing & Payments,P2,hi,email
+T0825,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। urgent,Account / KYC / Login,P1,hi,whatsapp
+T0826,PAN upload keeps failing and I am locked out of the dashboard. Raised via app chat.,Account / KYC / Login,P2,en,app
+T0827,Checkout pe app hang ho jati hai Android pe.,Technical / App crash,P2,hinglish,whatsapp
+T0828,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,email
+T0829,Someone else logged into my account. Please freeze it now. Customer id C20382.,Account / KYC / Login,P1,en,web
+T0830,Cannot login after KYC update. OTP never arrives.,Account / KYC / Login,P2,en,app
+T0831,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। यह बहुत जरूरी है।",Billing & Payments,P4,hi,whatsapp
+T0832,I did not request this password reset. Possible account takeover. Customer id C91625.,Account / KYC / Login,P1,en,email
+T0833,I cannot pay my bill. Card is declined every time I try checkout. Ticket for order follow-up.,Billing & Payments,P2,en,web
+T0834,I did not request this password reset. Possible account takeover. Please help.,Account / KYC / Login,P1,en,email
+T0835,Payment was deducted twice for invoice 74694 and my account still shows overdue. waiting since morning.,Billing & Payments,P1,en,whatsapp
+T0836,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। ग्राहक आईडी C70776।",Account / KYC / Login,P2,hi,email
+T0837,I cannot pay my bill. Card is declined every time I try checkout. Need update today.,Billing & Payments,P2,en,email
+T0838,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. kripya jaldi reply do.",Billing & Payments,P1,hinglish,email
+T0839,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? यह बहुत जरूरी है।,Account / KYC / Login,P3,hi,app
+T0840,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है।,Technical / App crash,P2,hi,web
+T0841,"Naya dashboard bahut accha hai, shukriya. kripya jaldi reply do.",Feedback / General,P4,hinglish,app
+T0842,Someone else logged into my account. Please freeze it now. Customer id C73075.,Account / KYC / Login,P1,en,app
+T0843,Could you add Hindi language to the help centre articles? Need update today.,Feedback / General,P3,en,whatsapp
+T0844,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,whatsapp
+T0845,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है। यह बहुत जरूरी है।",Abuse / Safety / Fraud,P1,hi,whatsapp
+T0846,"Mera order nahi aaya, tracking 4 din se same hai. customer id C88146.",Product / Order / Delivery,P2,hinglish,email
+T0847,पिछले बिल में अतिरिक्त शुल्क ₹499 क्यों लगाया गया?,Billing & Payments,P3,hi,app
+T0848,I cannot pay my bill. Card is declined every time I try checkout. Need update today.,Billing & Payments,P2,en,email
+T0849,How do I change the registered mobile number on my profile?,Account / KYC / Login,P3,en,app
+T0850,"Mera order nahi aaya, tracking 4 din se same hai. bahut zaruri hai bhai.",Product / Order / Delivery,P2,hinglish,app
+T0851,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,email
+T0852,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,email
+T0853,"Please explain the extra ₹1,299 convenience fee on last month's invoice.",Billing & Payments,P3,en,web
+T0854,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. kripya jaldi reply do.",Technical / App crash,P1,hinglish,whatsapp
+T0855,Phishing SMS used your brand. They asked for OTP. Please investigate. waiting since morning.,Abuse / Safety / Fraud,P1,en,email
+T0856,How do I change the registered mobile number on my profile? Customer id C18302.,Account / KYC / Login,P3,en,whatsapp
+T0857,I want to report spam messages in the in-app inbox. Raised via app chat.,Abuse / Safety / Fraud,P3,en,web
+T0858,FYI I updated my billing address. No issue otherwise. Please help.,Billing & Payments,P4,en,email
+T0859,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। यह बहुत जरूरी है।",Billing & Payments,P4,hi,app
+T0860,UPI payment failed yet ₹89 left my bank. Transaction id TXN84843.,Billing & Payments,P2,en,web
+T0861,I cannot pay my bill. Card is declined every time I try checkout. Need update today. !!!,Billing & Payments,P2,en,whatsapp
+T0862,"Naya dashboard bahut accha hai, shukriya. kripya jaldi reply do.",Feedback / General,P4,hinglish,whatsapp
+T0863,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho.",Abuse / Safety / Fraud,P1,hinglish,app
+T0864,Phishing SMS used your brand. They asked for OTP. Please investigate. Need update today.,Abuse / Safety / Fraud,P1,en,app
+T0865,"Thanks, the refund for invoice 40279 arrived. Just confirming. Customer id C40279.",Billing & Payments,P4,en,email
+T0866,"Settings page slow hai, 5 second lagata hai load hone me.",Technical / App crash,P3,hinglish,whatsapp
+T0867,A user threatened me in chat and shared my address. Unsafe.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0868,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up.,Feedback / General,P4,en,web
+T0869,ऑर्डर 30732 चार दिन से अटका हुआ है। ग्राहक आईडी C30732।,Product / Order / Delivery,P2,hi,web
+T0870,Love the new dashboard. Keep it up.,Feedback / General,P4,en,web
+T0871,Order 41551 is 4 days late. Tracking has not moved.,Product / Order / Delivery,P2,en,web
+T0872,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। ??",Account / KYC / Login,P2,hi,web
+T0873,Order 12136 is 4 days late. Tracking has not moved. Raised via app chat. !!!,Product / Order / Delivery,P2,en,email
+T0874,Love the new dashboard. Keep it up. Raised via app chat.,Feedback / General,P4,en,email
+T0875,"Thanks, the refund for invoice 14946 arrived. Just confirming. waiting since morning.",Billing & Payments,P4,en,web
+T0876,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। कृपया जल्दी जवाब दें।",Account / KYC / Login,P2,hi,web
+T0877,How do I download GST invoice for order 84774? Customer id C84774.,Billing & Payments,P3,en,web
+T0878,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,app
+T0879,Order 94181 is 4 days late. Tracking has not moved. Please help.,Product / Order / Delivery,P2,en,whatsapp
+T0880,How do I download GST invoice for order 17329? waiting since morning.,Billing & Payments,P3,en,whatsapp
+T0881,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,whatsapp
+T0882,I cannot pay my bill. Card is declined every time I try checkout. waiting since morning.,Billing & Payments,P2,en,email
+T0883,How do I change the registered mobile number on my profile? Ticket for order follow-up. urgent,Account / KYC / Login,P3,en,whatsapp
+T0884,Seller listing looks fake. They asked me to pay off-app. Customer id C88005.,Abuse / Safety / Fraud,P2,en,whatsapp
+T0885,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN27326 चेक करें। यह बहुत जरूरी है।,Billing & Payments,P2,hi,app
+T0886,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,whatsapp
+T0887,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,whatsapp
+T0888,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,email
+T0889,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon.",Billing & Payments,P4,hinglish,app
+T0890,FYI I updated my billing address. No issue otherwise.,Billing & Payments,P4,en,email
+T0891,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,web
+T0892,Can I change the delivery slot for order 67961 to Saturday? !!!,Product / Order / Delivery,P3,en,email
+T0893,"Order 58997 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. kripya jaldi reply do.",Product / Order / Delivery,P1,hinglish,app
+T0894,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. customer id C91396. ??",Billing & Payments,P4,hinglish,web
+T0895,App crashes on launch since the last update. Completely unusable. waiting since morning.,Technical / App crash,P1,en,email
+T0896,"UPI fail hua lekin paise nahi aaye wapas, TXN81620 check karo.",Billing & Payments,P2,hinglish,email
+T0897,"Mera order nahi aaya, tracking 4 din se same hai.",Product / Order / Delivery,P2,hinglish,app
+T0898,Someone else logged into my account. Please freeze it now. Raised via app chat.,Account / KYC / Login,P1,en,web
+T0899,I cannot pay my bill. Card is declined every time I try checkout. Need update today.,Billing & Payments,P2,en,web
+T0900,ऑर्डर 96520 चार दिन से अटका हुआ है। यह बहुत जरूरी है। urgent,Product / Order / Delivery,P2,hi,email
+T0901,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? ग्राहक आईडी C76655।,Account / KYC / Login,P3,hi,app
+T0902,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है।",Billing & Payments,P4,hi,app
+T0903,"UPI payment failed yet ₹2,050 left my bank. Transaction id TXN42426. waiting since morning.",Billing & Payments,P2,en,email
+T0904,"Charged ₹2,050 but the service is completely down. Need an immediate refund. waiting since morning.",Billing & Payments,P1,en,email
+T0905,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। ग्राहक आईडी C46159।,Technical / App crash,P1,hi,app
+T0906,Help centre me Hindi articles add karo please. bahut zaruri hai bhai.,Feedback / General,P3,hinglish,whatsapp
+T0907,ऑर्डर 27991 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,email
+T0908,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,web
+T0909,App crashes on launch since the last update. Completely unusable. Customer id C81071.,Technical / App crash,P1,en,email
+T0910,Could you add Hindi language to the help centre articles? Ticket for order follow-up.,Feedback / General,P3,en,email
+T0911,ऑर्डर 84035 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। ग्राहक आईडी C84035। ok,Product / Order / Delivery,P1,hi,app
+T0912,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। यह बहुत जरूरी है।",Billing & Payments,P4,hi,whatsapp
+T0913,"Login nahi ho raha, OTP nahi aa raha hai. customer id C49760.",Account / KYC / Login,P2,hinglish,email
+T0914,"Thanks, the refund for invoice 27241 arrived. Just confirming. Please help.",Billing & Payments,P4,en,web
+T0915,Order 84323 is 4 days late. Tracking has not moved. Customer id C84323.,Product / Order / Delivery,P2,en,app
+T0916,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। कृपया जल्दी जवाब दें।,Account / KYC / Login,P1,hi,whatsapp
+T0917,Delivery slot Saturday kar sakte ho kya order 95140 ka? bahut zaruri hai bhai.,Product / Order / Delivery,P3,hinglish,whatsapp
+T0918,Dark mode contrast is too low on the settings screen. Customer id C28024.,Technical / App crash,P3,en,whatsapp
+T0919,Seller listing looks fake. They asked me to pay off-app.,Abuse / Safety / Fraud,P2,en,email
+T0920,Seller listing looks fake. They asked me to pay off-app. Ticket for order follow-up.,Abuse / Safety / Fraud,P2,en,whatsapp
+T0921,Could you add Hindi language to the help centre articles? waiting since morning.,Feedback / General,P3,en,email
+T0922,Registered number kaise change karein profile me?,Account / KYC / Login,P3,hinglish,whatsapp
+T0923,Phishing SMS used your brand. They asked for OTP. Please investigate. Please help.,Abuse / Safety / Fraud,P1,en,whatsapp
+T0924,Checkout page spins forever on Android 14. Order cannot be placed.,Technical / App crash,P2,en,app
+T0925,Checkout pe app hang ho jati hai Android pe. bahut zaruri hai bhai.,Technical / App crash,P2,hinglish,whatsapp
+T0926,Just saying thanks to the support agent who helped yesterday.,Feedback / General,P4,en,web
+T0927,Can I change the delivery slot for order 17149 to Saturday?,Product / Order / Delivery,P3,en,whatsapp
+T0928,How do I download GST invoice for order 75622? Ticket for order follow-up.,Billing & Payments,P3,en,email
+T0929,"Kisi aur ne mera account hack kar liya hai, turant band karo. urgent",Account / KYC / Login,P1,hinglish,email
+T0930,Just saying thanks to the support agent who helped yesterday. Raised via app chat.,Feedback / General,P4,en,email
+T0931,Delivery slot Saturday kar sakte ho kya order 26193 ka? kripya jaldi reply do.,Product / Order / Delivery,P3,hinglish,web
+T0932,How do I download GST invoice for order 78657? Ticket for order follow-up.,Billing & Payments,P3,en,whatsapp
+T0933,"UPI payment failed yet ₹2,050 left my bank. Transaction id TXN32398. Ticket for order follow-up.",Billing & Payments,P2,en,email
+T0934,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। ग्राहक आईडी C16725।",Billing & Payments,P4,hi,whatsapp
+T0935,Cannot login after KYC update. OTP never arrives. Need update today.,Account / KYC / Login,P2,en,email
+T0936,Payment was deducted twice for invoice 91600 and my account still shows overdue. Please help.,Billing & Payments,P1,en,whatsapp
+T0937,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. bahut zaruri hai bhai.",Technical / App crash,P1,hinglish,whatsapp
+T0938,Checkout page spins forever on Android 14. Order cannot be placed. Need update today.,Technical / App crash,P2,en,app
+T0939,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon.",Billing & Payments,P4,hinglish,email
+T0940,I cannot pay my bill. Card is declined every time I try checkout. Please help.,Billing & Payments,P2,en,app
+T0941,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN14250 चेक करें। ग्राहक आईडी C14250।,Billing & Payments,P2,hi,app
+T0942,"Thanks, the refund for invoice 64651 arrived. Just confirming. Ticket for order follow-up.",Billing & Payments,P4,en,email
+T0943,Checkout page spins forever on Android 14. Order cannot be placed. Please help.,Technical / App crash,P2,en,web
+T0944,How do I change the registered mobile number on my profile? Need update today.,Account / KYC / Login,P3,en,app
+T0945,Cannot login after KYC update. OTP never arrives. Need update today.,Account / KYC / Login,P2,en,web
+T0946,"KYC approved, thanks for the quick help. Customer id C79081.",Account / KYC / Login,P4,en,app
+T0947,"Thanks, the refund for invoice 84890 arrived. Just confirming.",Billing & Payments,P4,en,web
+T0948,Registered number kaise change karein profile me? customer id C89802.,Account / KYC / Login,P3,hinglish,web
+T0949,"Naya dashboard bahut accha hai, shukriya.",Feedback / General,P4,hinglish,whatsapp
+T0950,The new search is nicer. Small suggestion: remember last filter. Raised via app chat.,Technical / App crash,P4,en,app
+T0951,FYI I updated my billing address. No issue otherwise. Need update today.,Billing & Payments,P4,en,email
+T0952,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। pls,Abuse / Safety / Fraud,P2,hi,email
+T0953,Payment was deducted twice for invoice 93967 and my account still shows overdue. Raised via app chat.,Billing & Payments,P1,en,app
+T0954,PAN upload keeps failing and I am locked out of the dashboard. Please help.,Account / KYC / Login,P2,en,web
+T0955,"KYC approved, thanks for the quick help. Ticket for order follow-up.",Account / KYC / Login,P4,en,web
+T0956,"Naya dashboard bahut accha hai, shukriya.",Feedback / General,P4,hinglish,email
+T0957,Dark mode contrast is too low on the settings screen. waiting since morning.,Technical / App crash,P3,en,whatsapp
+T0958,"Naya dashboard bahut accha hai, shukriya.",Feedback / General,P4,hinglish,web
+T0959,Checkout pe app hang ho jati hai Android pe. bahut zaruri hai bhai.,Technical / App crash,P2,hinglish,web
+T0960,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। कृपया जल्दी जवाब दें।,Abuse / Safety / Fraud,P2,hi,app
+T0961,"KYC approved, thanks for the quick help.",Account / KYC / Login,P4,en,app
+T0962,Could you add Hindi language to the help centre articles? Please help.,Feedback / General,P3,en,app
+T0963,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,web
+T0964,"UPI fail hua lekin paise nahi aaye wapas, TXN78825 check karo. bahut zaruri hai bhai.",Billing & Payments,P2,hinglish,app
+T0965,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,whatsapp
+T0966,नया डैशबोर्ड अच्छा लगा। धन्यवाद। कृपया जल्दी जवाब दें।,Feedback / General,P4,hi,whatsapp
+T0967,Phishing SMS used your brand. They asked for OTP. Please investigate. waiting since morning.,Abuse / Safety / Fraud,P1,en,app
+T0968,"Fake call aa rahi hai OTP mang rahe hain, yeh fraud hai jaldi dekho. bahut zaruri hai bhai.",Abuse / Safety / Fraud,P1,hinglish,whatsapp
+T0969,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? यह बहुत जरूरी है।,Account / KYC / Login,P3,hi,app
+T0970,"Order 87894 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. customer id C87894.",Product / Order / Delivery,P1,hinglish,app
+T0971,"Thanks, the refund for invoice 78233 arrived. Just confirming. Please help.",Billing & Payments,P4,en,web
+T0972,Order 37504 arrived in good condition. Thank you. Customer id C37504.,Product / Order / Delivery,P4,en,web
+T0973,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. kripya jaldi reply do.",Technical / App crash,P1,hinglish,email
+T0974,I did not request this password reset. Possible account takeover. Need update today.,Account / KYC / Login,P1,en,web
+T0975,Checkout pe app hang ho jati hai Android pe. bahut zaruri hai bhai.,Technical / App crash,P2,hinglish,web
+T0976,"Settings page slow hai, 5 second lagata hai load hone me. kripya jaldi reply do.",Technical / App crash,P3,hinglish,web
+T0977,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. bahut zaruri hai bhai. ??",Technical / App crash,P1,hinglish,app
+T0978,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,whatsapp
+T0979,Can I change the delivery slot for order 56612 to Saturday? waiting since morning.,Product / Order / Delivery,P3,en,app
+T0980,"Naya dashboard bahut accha hai, shukriya. kripya jaldi reply do.",Feedback / General,P4,hinglish,whatsapp
+T0981,"Thanks, the refund for invoice 69714 arrived. Just confirming.",Billing & Payments,P4,en,email
+T0982,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN90863 चेक करें। ग्राहक आईडी C90863।,Billing & Payments,P2,hi,web
+T0983,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है। urgent",Abuse / Safety / Fraud,P1,hi,app
+T0984,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। कृपया जल्दी जवाब दें।,Account / KYC / Login,P1,hi,web
+T0985,Order 85324 is 4 days late. Tracking has not moved. Need update today.,Product / Order / Delivery,P2,en,app
+T0986,How do I change the registered mobile number on my profile? Raised via app chat.,Account / KYC / Login,P3,en,whatsapp
+T0987,Paid order 64190 marked delivered but nothing arrived. This is urgent. Customer id C64190.,Product / Order / Delivery,P1,en,whatsapp
+T0988,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? कृपया जल्दी जवाब दें।,Account / KYC / Login,P3,hi,whatsapp
+T0989,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,email
+T0990,ऑर्डर 97766 चार दिन से अटका हुआ है।,Product / Order / Delivery,P2,hi,app
+T0991,Paid order 88128 marked delivered but nothing arrived. This is urgent. waiting since morning.,Product / Order / Delivery,P1,en,whatsapp
+T0992,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। यह बहुत जरूरी है।",Billing & Payments,P4,hi,whatsapp
+T0993,How do I change the registered mobile number on my profile? Need update today.,Account / KYC / Login,P3,en,email
+T0994,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up.,Feedback / General,P4,en,whatsapp
+T0995,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,email
+T0996,"UPI fail hua lekin paise nahi aaye wapas, TXN99327 check karo. customer id C99327.",Billing & Payments,P2,hinglish,web
+T0997,हेल्प सेंटर में हिंदी लेख जोड़िए। यह बहुत जरूरी है।,Feedback / General,P3,hi,whatsapp
+T0998,Love the new dashboard. Keep it up. Please help.,Feedback / General,P4,en,app
+T0999,Payment was deducted twice for invoice 83404 and my account still shows overdue. Need update today.,Billing & Payments,P1,en,app
+T1000,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon. customer id C66585.",Billing & Payments,P4,hinglish,whatsapp
+T1001,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? कृपया जल्दी जवाब दें।,Account / KYC / Login,P3,hi,email
+T1002,Checkout pe app hang ho jati hai Android pe.,Technical / App crash,P2,hinglish,email
+T1003,मेरे खाते से ₹499 दो बार कट गया और सेवा अभी भी बंद है। तुरंत रिफंड चाहिए। यह बहुत जरूरी है।,Billing & Payments,P1,hi,whatsapp
+T1004,ऑर्डर 67243 चार दिन से अटका हुआ है। यह बहुत जरूरी है।,Product / Order / Delivery,P2,hi,whatsapp
+T1005,Could you add Hindi language to the help centre articles? Ticket for order follow-up.,Feedback / General,P3,en,whatsapp
+T1006,Checkout pe app hang ho jati hai Android pe. customer id C68988.,Technical / App crash,P2,hinglish,whatsapp
+T1007,Order 10973 is 4 days late. Tracking has not moved. Customer id C10973.,Product / Order / Delivery,P2,en,web
+T1008,"Login nahi ho raha, OTP nahi aa raha hai. kripya jaldi reply do.",Account / KYC / Login,P2,hinglish,whatsapp
+T1009,Delivery slot Saturday kar sakte ho kya order 58310 ka?,Product / Order / Delivery,P3,hinglish,app
+T1010,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN78997 चेक करें।,Billing & Payments,P2,hi,app
+T1011,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon.",Billing & Payments,P4,hinglish,web
+T1012,Can I change the delivery slot for order 16917 to Saturday? Please help.,Product / Order / Delivery,P3,en,whatsapp
+T1013,"Settings page slow hai, 5 second lagata hai load hone me. customer id C53452.",Technical / App crash,P3,hinglish,web
+T1014,Cannot login after KYC update. OTP never arrives. Raised via app chat.,Account / KYC / Login,P2,en,web
+T1015,I cannot pay my bill. Card is declined every time I try checkout. Ticket for order follow-up.,Billing & Payments,P2,en,web
+T1016,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। ग्राहक आईडी C91830।,Abuse / Safety / Fraud,P2,hi,email
+T1017,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। ग्राहक आईडी C20074।,Technical / App crash,P1,hi,web
+T1018,I did not request this password reset. Possible account takeover. Need update today.,Account / KYC / Login,P1,en,email
+T1019,ऑर्डर 68543 चार दिन से अटका हुआ है। कृपया जल्दी जवाब दें।,Product / Order / Delivery,P2,hi,email
+T1020,The new search is nicer. Small suggestion: remember last filter. waiting since morning.,Technical / App crash,P4,en,email
+T1021,Order 30204 is 4 days late. Tracking has not moved.,Product / Order / Delivery,P2,en,email
+T1022,ऑर्डर 67695 चार दिन से अटका हुआ है। कृपया जल्दी जवाब दें।,Product / Order / Delivery,P2,hi,web
+T1023,I cannot pay my bill. Card is declined every time I try checkout. Need update today. urgent,Billing & Payments,P2,en,whatsapp
+T1024,Dark mode contrast is too low on the settings screen. Customer id C49500.,Technical / App crash,P3,en,whatsapp
+T1025,Dark mode contrast is too low on the settings screen. urgent,Technical / App crash,P3,en,whatsapp
+T1026,"Order 51377 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya. kripya jaldi reply do.",Product / Order / Delivery,P1,hinglish,web
+T1027,Love the new dashboard. Keep it up. waiting since morning.,Feedback / General,P4,en,app
+T1028,Someone else logged into my account. Please freeze it now.,Account / KYC / Login,P1,en,email
+T1029,Phishing SMS used your brand. They asked for OTP. Please investigate. waiting since morning.,Abuse / Safety / Fraud,P1,en,email
+T1030,How do I change the registered mobile number on my profile? Please help.,Account / KYC / Login,P3,en,app
+T1031,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,web
+T1032,Someone else logged into my account. Please freeze it now. Please help.,Account / KYC / Login,P1,en,app
+T1033,Help centre me Hindi articles add karo please.,Feedback / General,P3,hinglish,app
+T1034,How do I download GST invoice for order 89257?,Billing & Payments,P3,en,email
+T1035,नया डैशबोर्ड अच्छा लगा। धन्यवाद। ग्राहक आईडी C24528।,Feedback / General,P4,hi,app
+T1036,Order 69433 arrived in good condition. Thank you.,Product / Order / Delivery,P4,en,web
+T1037,Someone else logged into my account. Please freeze it now. Raised via app chat.,Account / KYC / Login,P1,en,whatsapp
+T1038,प्रोफाइल पर मोबाइल नंबर कैसे बदलें? ग्राहक आईडी C53601।,Account / KYC / Login,P3,hi,web
+T1039,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है।",Billing & Payments,P4,hi,email
+T1040,Can I change the delivery slot for order 61463 to Saturday?,Product / Order / Delivery,P3,en,whatsapp
+T1041,"UPI fail hua lekin paise nahi aaye wapas, TXN90473 check karo.",Billing & Payments,P2,hinglish,app
+T1042,UPI payment failed yet ₹499 left my bank. Transaction id TXN19557. Raised via app chat.,Billing & Payments,P2,en,app
+T1043,नया डैशबोर्ड अच्छा लगा। धन्यवाद। यह बहुत जरूरी है।,Feedback / General,P4,hi,whatsapp
+T1044,I did not request this password reset. Possible account takeover.,Account / KYC / Login,P1,en,whatsapp
+T1045,Dark mode contrast is too low on the settings screen. Need update today.,Technical / App crash,P3,en,app
+T1046,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,web
+T1047,"KYC approved, thanks for the quick help. ??",Account / KYC / Login,P4,en,web
+T1048,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha.",Technical / App crash,P1,hinglish,web
+T1049,ऑर्डर 36623 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। urgent,Product / Order / Delivery,P1,hi,email
+T1050,PAN upload keeps failing and I am locked out of the dashboard. waiting since morning.,Account / KYC / Login,P2,en,whatsapp
+T1051,A user threatened me in chat and shared my address. Unsafe. Please help.,Abuse / Safety / Fraud,P1,en,email
+T1052,The new search is nicer. Small suggestion: remember last filter. Raised via app chat.,Technical / App crash,P4,en,whatsapp
+T1053,"Charged ₹2,050 but the service is completely down. Need an immediate refund. Please help.",Billing & Payments,P1,en,app
+T1054,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,email
+T1055,A user threatened me in chat and shared my address. Unsafe. Need update today. !!!,Abuse / Safety / Fraud,P1,en,whatsapp
+T1056,ऑर्डर 12498 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। !!!,Product / Order / Delivery,P1,hi,app
+T1057,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। ग्राहक आईडी C92924।",Billing & Payments,P4,hi,app
+T1058,Checkout page spins forever on Android 14. Order cannot be placed. Need update today.,Technical / App crash,P2,en,app
+T1059,FYI I updated my billing address. No issue otherwise. Need update today.,Billing & Payments,P4,en,whatsapp
+T1060,"KYC approved, thanks for the quick help. waiting since morning.",Account / KYC / Login,P4,en,email
+T1061,How do I change the registered mobile number on my profile? Ticket for order follow-up.,Account / KYC / Login,P3,en,app
+T1062,I did not request this password reset. Possible account takeover. Ticket for order follow-up.,Account / KYC / Login,P1,en,email
+T1063,App crashes on launch since the last update. Completely unusable. Ticket for order follow-up.,Technical / App crash,P1,en,whatsapp
+T1064,I want to report spam messages in the in-app inbox.,Abuse / Safety / Fraud,P3,en,app
+T1065,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है।",Billing & Payments,P4,hi,whatsapp
+T1066,"Mera order nahi aaya, tracking 4 din se same hai. bahut zaruri hai bhai.",Product / Order / Delivery,P2,hinglish,whatsapp
+T1067,"Login nahi ho raha, OTP nahi aa raha hai.",Account / KYC / Login,P2,hinglish,email
+T1068,Delivery slot Saturday kar sakte ho kya order 75521 ka? customer id C75521.,Product / Order / Delivery,P3,hinglish,app
+T1069,Checkout pe app hang ho jati hai Android pe. kripya jaldi reply do.,Technical / App crash,P2,hinglish,app
+T1070,Can I change the delivery slot for order 57435 to Saturday?,Product / Order / Delivery,P3,en,email
+T1071,I did not request this password reset. Possible account takeover. Need update today.,Account / KYC / Login,P1,en,whatsapp
+T1072,The new search is nicer. Small suggestion: remember last filter. Please help. pls,Technical / App crash,P4,en,web
+T1073,"UPI fail hua lekin paise nahi aaye wapas, TXN66973 check karo. customer id C66973.",Billing & Payments,P2,hinglish,whatsapp
+T1074,UPI payment failed yet ₹499 left my bank. Transaction id TXN23686. Ticket for order follow-up.,Billing & Payments,P2,en,app
+T1075,The new search is nicer. Small suggestion: remember last filter. Need update today.,Technical / App crash,P4,en,whatsapp
+T1076,Paid order 85990 marked delivered but nothing arrived. This is urgent.,Product / Order / Delivery,P1,en,web
+T1077,"Last bill me extra ₹2,050 kyun add kiya, samjhao. bahut zaruri hai bhai.",Billing & Payments,P3,hinglish,whatsapp
+T1078,Could you add Hindi language to the help centre articles? Customer id C36208. ok,Feedback / General,P3,en,whatsapp
+T1079,I cannot pay my bill. Card is declined every time I try checkout. Customer id C67129.,Billing & Payments,P2,en,whatsapp
+T1080,"रिफंड मिल गया, धन्यवाद। कोई और समस्या नहीं है। कृपया जल्दी जवाब दें।",Billing & Payments,P4,hi,email
+T1081,Order 57001 arrived in good condition. Thank you. Customer id C57001.,Product / Order / Delivery,P4,en,app
+T1082,"Mera order nahi aaya, tracking 4 din se same hai. customer id C84536.",Product / Order / Delivery,P2,hinglish,whatsapp
+T1083,Checkout page spins forever on Android 14. Order cannot be placed. waiting since morning.,Technical / App crash,P2,en,web
+T1084,Order 30550 is 4 days late. Tracking has not moved. Customer id C30550.,Product / Order / Delivery,P2,en,whatsapp
+T1085,Could you add Hindi language to the help centre articles?,Feedback / General,P3,en,whatsapp
+T1086,A user threatened me in chat and shared my address. Unsafe. waiting since morning.,Abuse / Safety / Fraud,P1,en,email
+T1087,नया डैशबोर्ड अच्छा लगा। धन्यवाद।,Feedback / General,P4,hi,whatsapp
+T1088,UPI payment failed yet ₹89 left my bank. Transaction id TXN15250. Please help.,Billing & Payments,P2,en,whatsapp
+T1089,Dark mode contrast is too low on the settings screen.,Technical / App crash,P3,en,app
+T1090,"Mera order nahi aaya, tracking 4 din se same hai. bahut zaruri hai bhai.",Product / Order / Delivery,P2,hinglish,email
+T1091,ऑर्डर 21892 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं।,Product / Order / Delivery,P1,hi,email
+T1092,Delivery slot Saturday kar sakte ho kya order 70199 ka?,Product / Order / Delivery,P3,hinglish,email
+T1093,Could you add Hindi language to the help centre articles? waiting since morning.,Feedback / General,P3,en,app
+T1094,Could you add Hindi language to the help centre articles?,Feedback / General,P3,en,web
+T1095,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है।,Technical / App crash,P2,hi,email
+T1096,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,app
+T1097,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। यह बहुत जरूरी है।,Technical / App crash,P1,hi,web
+T1098,Checkout page spins forever on Android 14. Order cannot be placed. waiting since morning.,Technical / App crash,P2,en,app
+T1099,Checkout pe app hang ho jati hai Android pe. customer id C36832.,Technical / App crash,P2,hinglish,app
+T1100,ऑर्डर 72717 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। कृपया जल्दी जवाब दें।,Product / Order / Delivery,P1,hi,web
+T1101,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। ग्राहक आईडी C99158। pls,Technical / App crash,P1,hi,web
+T1102,App crashes on launch since the last update. Completely unusable.,Technical / App crash,P1,en,web
+T1103,App crashes on launch since the last update. Completely unusable. Need update today.,Technical / App crash,P1,en,whatsapp
+T1104,How do I download GST invoice for order 20508? Ticket for order follow-up.,Billing & Payments,P3,en,app
+T1105,"Thanks, the refund for invoice 31596 arrived. Just confirming. Need update today.",Billing & Payments,P4,en,whatsapp
+T1106,बिल भरने पर पेमेंट फेल हो गया लेकिन पैसे कट गए। TXN36772 चेक करें। ग्राहक आईडी C36772।,Billing & Payments,P2,hi,email
+T1107,Dark mode contrast is too low on the settings screen.,Technical / App crash,P3,en,app
+T1108,Cannot login after KYC update. OTP never arrives. Please help.,Account / KYC / Login,P2,en,email
+T1109,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,web
+T1110,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,email
+T1111,नया डैशबोर्ड अच्छा लगा। धन्यवाद। ग्राहक आईडी C50172।,Feedback / General,P4,hi,web
+T1112,Cannot login after KYC update. OTP never arrives. waiting since morning.,Account / KYC / Login,P2,en,email
+T1113,Can I change the delivery slot for order 31075 to Saturday? Ticket for order follow-up.,Product / Order / Delivery,P3,en,email
+T1114,पिछले बिल में अतिरिक्त शुल्क ₹499 क्यों लगाया गया? यह बहुत जरूरी है।,Billing & Payments,P3,hi,email
+T1115,App crashes on launch since the last update. Completely unusable. Ticket for order follow-up.,Technical / App crash,P1,en,app
+T1116,ऑर्डर 51542 चार दिन से अटका हुआ है। कृपया जल्दी जवाब दें।,Product / Order / Delivery,P2,hi,email
+T1117,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. kripya jaldi reply do.",Technical / App crash,P1,hinglish,whatsapp
+T1118,I want to report spam messages in the in-app inbox. waiting since morning.,Abuse / Safety / Fraud,P3,en,web
+T1119,ऑर्डर 48739 डिलीवर्ड दिखाया गया लेकिन सामान नहीं आया। पैसे कट चुके हैं। ग्राहक आईडी C48739।,Product / Order / Delivery,P1,hi,email
+T1120,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है। ग्राहक आईडी C84086।,Abuse / Safety / Fraud,P2,hi,whatsapp
+T1121,नया डैशबोर्ड अच्छा लगा। धन्यवाद।,Feedback / General,P4,hi,app
+T1122,"Kisi aur ne mera account hack kar liya hai, turant band karo.",Account / KYC / Login,P1,hinglish,web
+T1123,I cannot pay my bill. Card is declined every time I try checkout. Customer id C89711.,Billing & Payments,P2,en,web
+T1124,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do.",Billing & Payments,P1,hinglish,app
+T1125,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही।,Technical / App crash,P1,hi,app
+T1126,हेल्प सेंटर में हिंदी लेख जोड़िए।,Feedback / General,P3,hi,whatsapp
+T1127,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। यह बहुत जरूरी है।",Account / KYC / Login,P2,hi,web
+T1128,PAN upload keeps failing and I am locked out of the dashboard. Customer id C68402.,Account / KYC / Login,P2,en,whatsapp
+T1129,A user threatened me in chat and shared my address. Unsafe. Raised via app chat.,Abuse / Safety / Fraud,P1,en,whatsapp
+T1130,Phishing SMS used your brand. They asked for OTP. Please investigate. Need update today.,Abuse / Safety / Fraud,P1,en,web
+T1131,Dark mode contrast is too low on the settings screen. Need update today.,Technical / App crash,P3,en,whatsapp
+T1132,How do I download GST invoice for order 10867? Raised via app chat.,Billing & Payments,P3,en,whatsapp
+T1133,Delivery slot Saturday kar sakte ho kya order 84437 ka? bahut zaruri hai bhai.,Product / Order / Delivery,P3,hinglish,whatsapp
+T1134,Cannot login after KYC update. OTP never arrives. Please help.,Account / KYC / Login,P2,en,web
+T1135,"Seller off-app payment maang raha hai, scam lag raha hai.",Abuse / Safety / Fraud,P2,hinglish,whatsapp
+T1136,"Last bill me extra ₹499 kyun add kiya, samjhao. bahut zaruri hai bhai.",Billing & Payments,P3,hinglish,whatsapp
+T1137,FYI I updated my billing address. No issue otherwise.,Billing & Payments,P4,en,email
+T1138,"Charged ₹2,050 but the service is completely down. Need an immediate refund.",Billing & Payments,P1,en,app
+T1139,Order 57416 is 4 days late. Tracking has not moved.,Product / Order / Delivery,P2,en,whatsapp
+T1140,"Mera order nahi aaya, tracking 4 din se same hai.",Product / Order / Delivery,P2,hinglish,app
+T1141,Love the new dashboard. Keep it up. Please help.,Feedback / General,P4,en,whatsapp
+T1142,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up. pls,Feedback / General,P4,en,whatsapp
+T1143,Order 56659 arrived in good condition. Thank you. Raised via app chat.,Product / Order / Delivery,P4,en,app
+T1144,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। यह बहुत जरूरी है।,Technical / App crash,P1,hi,email
+T1145,"App open karte hi crash ho rahi hai, kuch kaam nahi ho raha. customer id C52284.",Technical / App crash,P1,hinglish,web
+T1146,"Thanks, the refund for invoice 80047 arrived. Just confirming. Ticket for order follow-up. ok",Billing & Payments,P4,en,web
+T1147,"लॉगिन नहीं हो रहा, OTP नहीं आ रहा है। ग्राहक आईडी C73556।",Account / KYC / Login,P2,hi,email
+T1148,"Thanks, the refund for invoice 38557 arrived. Just confirming. Customer id C38557.",Billing & Payments,P4,en,app
+T1149,"Login nahi ho raha, OTP nahi aa raha hai. kripya jaldi reply do.",Account / KYC / Login,P2,hinglish,app
+T1150,Dark mode contrast is too low on the settings screen. waiting since morning.,Technical / App crash,P3,en,whatsapp
+T1151,Just saying thanks to the support agent who helped yesterday. Ticket for order follow-up.,Feedback / General,P4,en,app
+T1152,A user threatened me in chat and shared my address. Unsafe. Ticket for order follow-up.,Abuse / Safety / Fraud,P1,en,email
+T1153,"Mera order nahi aaya, tracking 4 din se same hai. bahut zaruri hai bhai.",Product / Order / Delivery,P2,hinglish,app
+T1154,Registered number kaise change karein profile me? kripya jaldi reply do.,Account / KYC / Login,P3,hinglish,whatsapp
+T1155,UPI payment failed yet ₹499 left my bank. Transaction id TXN35736. Please help.,Billing & Payments,P2,en,app
+T1156,Dark mode contrast is too low on the settings screen. Please help. ??,Technical / App crash,P3,en,app
+T1157,"फेक कॉल आ रही है, OTP मांग रहे हैं आपके नाम से। धोखाधड़ी है।",Abuse / Safety / Fraud,P1,hi,email
+T1158,ऑर्डर 56076 चार दिन से अटका हुआ है। यह बहुत जरूरी है।,Product / Order / Delivery,P2,hi,web
+T1159,Help centre me Hindi articles add karo please. customer id C85989.,Feedback / General,P3,hinglish,email
+T1160,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। यह बहुत जरूरी है।,Technical / App crash,P1,hi,app
+T1161,पेमेंट स्क्रीन पर ऐप हैंग हो जाती है। ग्राहक आईडी C38442।,Technical / App crash,P2,hi,app
+T1162,Phishing SMS used your brand. They asked for OTP. Please investigate.,Abuse / Safety / Fraud,P1,en,email
+T1163,App crashes on launch since the last update. Completely unusable. Ticket for order follow-up.,Technical / App crash,P1,en,whatsapp
+T1164,Registered number kaise change karein profile me?,Account / KYC / Login,P3,hinglish,web
+T1165,FYI I updated my billing address. No issue otherwise. Ticket for order follow-up.,Billing & Payments,P4,en,web
+T1166,Delivery slot Saturday kar sakte ho kya order 47784 ka? kripya jaldi reply do.,Product / Order / Delivery,P3,hinglish,app
+T1167,प्रोफाइल पर मोबाइल नंबर कैसे बदलें?,Account / KYC / Login,P3,hi,whatsapp
+T1168,"Last bill me extra ₹89 kyun add kiya, samjhao. customer id C82602.",Billing & Payments,P3,hinglish,whatsapp
+T1169,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. customer id C19123.",Billing & Payments,P1,hinglish,whatsapp
+T1170,"Order 23785 delivered dikha raha hai lekin saman nahi aaya, payment kat gaya.",Product / Order / Delivery,P1,hinglish,app
+T1171,FYI I updated my billing address. No issue otherwise.,Billing & Payments,P4,en,app
+T1172,A user threatened me in chat and shared my address. Unsafe. waiting since morning.,Abuse / Safety / Fraud,P1,en,web
+T1173,"Mera payment do baar kat gaya hai aur service abhi bhi down hai, jaldi refund do. kripya jaldi reply do.",Billing & Payments,P1,hinglish,whatsapp
+T1174,Phishing SMS used your brand. They asked for OTP. Please investigate. Raised via app chat.,Abuse / Safety / Fraud,P1,en,whatsapp
+T1175,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें।,Account / KYC / Login,P1,hi,email
+T1176,I want to report spam messages in the in-app inbox. Need update today.,Abuse / Safety / Fraud,P3,en,whatsapp
+T1177,"Last bill me extra ₹1,299 kyun add kiya, samjhao. kripya jaldi reply do.",Billing & Payments,P3,hinglish,app
+T1178,"Seller off-app payment maang raha hai, scam lag raha hai. kripya jaldi reply do.",Abuse / Safety / Fraud,P2,hinglish,whatsapp
+T1179,Order 99024 is 4 days late. Tracking has not moved. Ticket for order follow-up.,Product / Order / Delivery,P2,en,app
+T1180,Seller listing looks fake. They asked me to pay off-app.,Abuse / Safety / Fraud,P2,en,whatsapp
+T1181,The new search is nicer. Small suggestion: remember last filter. waiting since morning.,Technical / App crash,P4,en,app
+T1182,Help centre me Hindi articles add karo please. kripya jaldi reply do.,Feedback / General,P3,hinglish,web
+T1183,Love the new dashboard. Keep it up. !!!,Feedback / General,P4,en,web
+T1184,Just saying thanks to the support agent who helped yesterday.,Feedback / General,P4,en,whatsapp
+T1185,The new search is nicer. Small suggestion: remember last filter.,Technical / App crash,P4,en,email
+T1186,ऐप खुलते ही क्रैश हो जाती है। बिल्कुल काम नहीं कर रही। ग्राहक आईडी C17305।,Technical / App crash,P1,hi,whatsapp
+T1187,Can I change the delivery slot for order 98668 to Saturday? Raised via app chat.,Product / Order / Delivery,P3,en,app
+T1188,Paid order 15913 marked delivered but nothing arrived. This is urgent. waiting since morning.,Product / Order / Delivery,P1,en,app
+T1189,Seller listing looks fake. They asked me to pay off-app.,Abuse / Safety / Fraud,P2,en,web
+T1190,मेरे अकाउंट में कोई और लॉगिन कर रहा है। तुरंत बंद करें। यह बहुत जरूरी है।,Account / KYC / Login,P1,hi,email
+T1191,"Refund aa gaya bhai, shukriya. Bas confirm kar raha hoon.",Billing & Payments,P4,hinglish,app
+T1192,Could you add Hindi language to the help centre articles? waiting since morning.,Feedback / General,P3,en,web
+T1193,UPI payment failed yet ₹89 left my bank. Transaction id TXN70412.,Billing & Payments,P2,en,whatsapp
+T1194,Paid order 12914 marked delivered but nothing arrived. This is urgent.,Product / Order / Delivery,P1,en,web
+T1195,"Settings page slow hai, 5 second lagata hai load hone me. kripya jaldi reply do.",Technical / App crash,P3,hinglish,email
+T1196,"KYC approved, thanks for the quick help. Ticket for order follow-up.",Account / KYC / Login,P4,en,web
+T1197,Registered number kaise change karein profile me? kripya jaldi reply do.,Account / KYC / Login,P3,hinglish,email
+T1198,Cannot login after KYC update. OTP never arrives. Raised via app chat.,Account / KYC / Login,P2,en,whatsapp
+T1199,सेलर ऐप के बाहर पेमेंट मांग रहा है। फ्रॉड लग रहा है।,Abuse / Safety / Fraud,P2,hi,web
+T1200,I did not request this password reset. Possible account takeover.,Account / KYC / Login,P1,en,app
